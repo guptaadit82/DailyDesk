@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Daily Desk - GK and English Exam PWA</title>
+  <meta name="description" content="Offline GK and English exam revision app with ordered study modules and random quizzes.">
+  <meta name="theme-color" content="#0F766E">
+  <link rel="manifest" href="manifest.json">
+  <link rel="shortcut icon" href="icons/favicon.ico">
+  <link rel="icon" type="image/png" sizes="16x16" href="icons/icon-16.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="icons/icon-32.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Daily Desk">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="toast" class="toast" aria-live="polite"></div>
+
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="brand" href="./" aria-label="Daily Desk home">
+        <span class="brand-mark"><img src="icons/icon-192.png" alt="" aria-hidden="true"></span>
+        <span>
+          <strong>Daily Desk</strong>
+          <small>GK and English workspace</small>
+        </span>
+      </a>
+      <div class="top-status">
+        <span id="dataVersion">Data local</span>
+        <div class="streak" title="Daily streak">
+          <span>Streak</span>
+          <strong id="streakCount">0</strong>
+        </div>
+      </div>
+    </div>
+    <div class="coursebar">
+      <label class="subject-picker">
+        <span>Choose Subject</span>
+        <select id="subjectSelect" aria-label="Choose subject"></select>
+      </label>
+    </div>
+  </header>
+
+  <main id="app">
+    <section id="loadError" class="load-error" hidden></section>
+    <section id="view" class="workspace" aria-live="polite"></section>
+  </main>
+
+  <nav id="bottomnav" class="bottomnav" aria-label="Course modes"></nav>
+
+  <div id="installBanner" class="install-banner" hidden>
+    <span>Install Daily Desk for offline use.</span>
+    <div>
+      <button id="btnInstall" class="btn small">Install</button>
+      <button id="btnDismissInstall" class="btn secondary small" aria-label="Dismiss install prompt">Close</button>
+    </div>
+  </div>
+
+  <script type="module" src="js/main.js?v=course4"></script>
+</body>
+</html>

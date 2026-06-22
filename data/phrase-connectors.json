@@ -1,0 +1,1220 @@
+{
+  "metadata": {
+    "title": "Phrase Connectors Learning Data",
+    "subtitle": "Hindi-English Bank/IBPS Style Connector Practice",
+    "version": "1.0.0",
+    "languageMode": "bilingual-hinglish",
+    "targetExams": [
+      "IBPS SO",
+      "IBPS PO",
+      "SBI",
+      "RRB",
+      "Banking English"
+    ],
+    "recommendedUse": "Mobile-first PWA flashcards, quizzes, daily revision, bookmarked mistakes",
+    "createdFor": "Phrase connectors, tones, meanings, usage, examples, and practice questions"
+  },
+  "coreConcepts": [
+    {
+      "id": "concept-001",
+      "title": "What are Phrase Connectors?",
+      "explanation_en": "Phrase connectors are words or phrases that connect two ideas, clauses, or sentences logically. They show whether the relation is reason, result, contrast, condition, purpose, addition, time, example, or conclusion.",
+      "explanation_hi": "Phrase connectors ऐसे words/phrases होते हैं जो दो ideas, clauses या sentences को logically जोड़ते हैं। ये बताते हैं कि relation reason, result, contrast, condition, purpose, addition, time, example या conclusion है।",
+      "example": {
+        "before": [
+          "He studied hard.",
+          "He failed the exam."
+        ],
+        "after": "Although he studied hard, he failed the exam.",
+        "meaning_hi": "हालाँकि उसने बहुत पढ़ाई की, फिर भी वह परीक्षा में fail हो गया।"
+      }
+    },
+    {
+      "id": "concept-002",
+      "title": "Connector vs Preposition Pattern",
+      "explanation_en": "Some connectors take a full clause after them, while some take only a noun phrase or V-ing.",
+      "explanation_hi": "कुछ connectors के बाद full clause आता है, और कुछ के बाद noun phrase या V-ing आता है।",
+      "rules": [
+        {
+          "pattern": "because / although / if / when + Subject + Verb",
+          "example": "Although he was tired, he worked."
+        },
+        {
+          "pattern": "because of / due to / despite / in spite of + noun or V-ing",
+          "example": "Despite being tired, he worked."
+        }
+      ]
+    },
+    {
+      "id": "concept-003",
+      "title": "Exam Solving Formula",
+      "explanation_en": "First identify the relation between the two ideas, then check the grammar structure required by the connector, and finally ensure the original meaning remains unchanged.",
+      "explanation_hi": "पहले दोनों ideas का relation पहचानो, फिर connector की grammar structure check करो, और अंत में देखो कि original meaning same रह रहा है या नहीं।",
+      "steps": [
+        "Identify relation: reason, result, contrast, condition, purpose, addition, time, example, clarification, conclusion.",
+        "Check structure: Subject + Verb or noun/V-ing.",
+        "Check meaning: sentence का original meaning change नहीं होना चाहिए।"
+      ]
+    }
+  ],
+  "toneMap": [
+    {
+      "tone": "Addition",
+      "hindiSignal": "और / इसके अलावा",
+      "keywords": [
+        "and",
+        "also",
+        "moreover",
+        "furthermore",
+        "in addition",
+        "besides",
+        "as well as",
+        "not only...but also"
+      ]
+    },
+    {
+      "tone": "Contrast",
+      "hindiSignal": "लेकिन / हालाँकि / जबकि",
+      "keywords": [
+        "but",
+        "however",
+        "although",
+        "though",
+        "even though",
+        "while",
+        "whereas",
+        "yet",
+        "nevertheless",
+        "despite",
+        "in spite of"
+      ]
+    },
+    {
+      "tone": "Reason",
+      "hindiSignal": "क्योंकि / के कारण",
+      "keywords": [
+        "because",
+        "since",
+        "as",
+        "because of",
+        "due to",
+        "owing to",
+        "on account of"
+      ]
+    },
+    {
+      "tone": "Result",
+      "hindiSignal": "इसलिए / परिणामस्वरूप",
+      "keywords": [
+        "so",
+        "therefore",
+        "thus",
+        "hence",
+        "consequently",
+        "as a result",
+        "as a consequence"
+      ]
+    },
+    {
+      "tone": "Condition",
+      "hindiSignal": "अगर / बशर्ते / जब तक नहीं",
+      "keywords": [
+        "if",
+        "unless",
+        "provided that",
+        "as long as",
+        "in case",
+        "even if"
+      ]
+    },
+    {
+      "tone": "Purpose",
+      "hindiSignal": "ताकि / करने के लिए",
+      "keywords": [
+        "to",
+        "in order to",
+        "so as to",
+        "so that",
+        "in order that"
+      ]
+    },
+    {
+      "tone": "Time",
+      "hindiSignal": "जब / पहले / बाद में / जैसे ही",
+      "keywords": [
+        "when",
+        "while",
+        "before",
+        "after",
+        "as soon as",
+        "until",
+        "till",
+        "since",
+        "once"
+      ]
+    },
+    {
+      "tone": "Example",
+      "hindiSignal": "उदाहरण के लिए / जैसे",
+      "keywords": [
+        "for example",
+        "for instance",
+        "such as",
+        "namely",
+        "especially",
+        "particularly"
+      ]
+    },
+    {
+      "tone": "Clarification",
+      "hindiSignal": "यानी / दूसरे शब्दों में",
+      "keywords": [
+        "in other words",
+        "that is",
+        "namely",
+        "to put it simply",
+        "specifically",
+        "in fact"
+      ]
+    },
+    {
+      "tone": "Conclusion",
+      "hindiSignal": "निष्कर्षतः / कुल मिलाकर",
+      "keywords": [
+        "therefore",
+        "thus",
+        "hence",
+        "in conclusion",
+        "overall",
+        "in short",
+        "finally"
+      ]
+    }
+  ],
+  "commonRules": [
+    {
+      "rule": "Although / Though / Even though + Subject + Verb",
+      "correct": "Although he was tired, he worked.",
+      "wrong": "Although he was tired, but he worked.",
+      "note_hi": "Although और but को साथ में generally use नहीं करते।"
+    },
+    {
+      "rule": "Despite / In spite of + noun / V-ing",
+      "correct": "Despite being tired, he worked.",
+      "wrong": "Despite he was tired, he worked.",
+      "note_hi": "Despite के बाद full Subject + Verb clause नहीं आता।"
+    },
+    {
+      "rule": "Because + Subject + Verb",
+      "correct": "He failed because he was careless.",
+      "wrong": "He failed because his carelessness.",
+      "note_hi": "Because के बाद full clause आता है।"
+    },
+    {
+      "rule": "Because of / Due to + noun / V-ing",
+      "correct": "He failed because of his carelessness.",
+      "wrong": "He failed because of he was careless.",
+      "note_hi": "Because of और due to के बाद noun phrase आता है।"
+    },
+    {
+      "rule": "Unless = If not",
+      "correct": "Unless you study, you will fail.",
+      "wrong": "Unless you do not study, you will fail.",
+      "note_hi": "Unless already negative meaning देता है, इसलिए extra not नहीं लगाते।"
+    },
+    {
+      "rule": "So = इसलिए; So that = ताकि",
+      "correct": "He was tired, so he slept. / He slept early so that he could wake up early.",
+      "wrong": "He slept early so he could wake up early. Sometimes acceptable informally, but in exams purpose is better with so that.",
+      "note_hi": "Result के लिए so, purpose के लिए so that।"
+    }
+  ],
+  "connectorFamilies": [
+    {
+      "family": "Contrast",
+      "meaning_hi": "विरोध / unexpected relation",
+      "keywords": [
+        {
+          "keyword": "although",
+          "hindi": "हालाँकि",
+          "structure": "although + Subject + Verb",
+          "example": "Although he was tired, he continued working."
+        },
+        {
+          "keyword": "though",
+          "hindi": "हालाँकि",
+          "structure": "though + Subject + Verb",
+          "example": "Though the question was difficult, he solved it."
+        },
+        {
+          "keyword": "even though",
+          "hindi": "भले ही",
+          "structure": "even though + Subject + Verb",
+          "example": "Even though she had no experience, she got selected."
+        },
+        {
+          "keyword": "despite",
+          "hindi": "के बावजूद",
+          "structure": "despite + noun/V-ing",
+          "example": "Despite being tired, he worked."
+        },
+        {
+          "keyword": "in spite of",
+          "hindi": "के बावजूद",
+          "structure": "in spite of + noun/V-ing",
+          "example": "In spite of being nervous, she performed well."
+        },
+        {
+          "keyword": "however",
+          "hindi": "हालाँकि / लेकिन",
+          "structure": "Sentence. However, sentence.",
+          "example": "The plan was expensive. However, it was effective."
+        },
+        {
+          "keyword": "whereas",
+          "hindi": "जबकि",
+          "structure": "Clause, whereas clause",
+          "example": "Ravi likes tea, whereas Mohan likes coffee."
+        },
+        {
+          "keyword": "while",
+          "hindi": "जबकि / जब",
+          "structure": "while + Subject + Verb",
+          "example": "While I was studying, my brother was watching TV."
+        }
+      ]
+    },
+    {
+      "family": "Reason",
+      "meaning_hi": "कारण",
+      "keywords": [
+        {
+          "keyword": "because",
+          "hindi": "क्योंकि",
+          "structure": "because + Subject + Verb",
+          "example": "He failed because he did not study."
+        },
+        {
+          "keyword": "because of",
+          "hindi": "के कारण",
+          "structure": "because of + noun/V-ing",
+          "example": "The match was cancelled because of heavy rain."
+        },
+        {
+          "keyword": "due to",
+          "hindi": "के कारण",
+          "structure": "due to + noun phrase",
+          "example": "The flight was delayed due to bad weather."
+        },
+        {
+          "keyword": "since",
+          "hindi": "चूँकि / तब से",
+          "structure": "since + clause / since + time point",
+          "example": "Since he was unwell, he stayed at home."
+        }
+      ]
+    },
+    {
+      "family": "Result",
+      "meaning_hi": "परिणाम",
+      "keywords": [
+        {
+          "keyword": "therefore",
+          "hindi": "इसलिए",
+          "structure": "Sentence. Therefore, sentence.",
+          "example": "He missed the bus. Therefore, he reached late."
+        },
+        {
+          "keyword": "thus",
+          "hindi": "अतः / इसलिए",
+          "structure": "Sentence. Thus, sentence.",
+          "example": "He practised daily. Thus, he improved his speed."
+        },
+        {
+          "keyword": "hence",
+          "hindi": "इसलिए / अतः",
+          "structure": "Sentence. Hence, sentence.",
+          "example": "He was not eligible. Hence, his application was rejected."
+        },
+        {
+          "keyword": "consequently",
+          "hindi": "परिणामस्वरूप",
+          "structure": "Sentence. Consequently, sentence.",
+          "example": "The company reduced production. Consequently, many workers lost their jobs."
+        },
+        {
+          "keyword": "so...that",
+          "hindi": "इतना...कि",
+          "structure": "so + adjective/adverb + that + result clause",
+          "example": "He was so weak that he could not walk."
+        }
+      ]
+    },
+    {
+      "family": "Condition and Purpose",
+      "meaning_hi": "शर्त और उद्देश्य",
+      "keywords": [
+        {
+          "keyword": "if",
+          "hindi": "अगर / यदि",
+          "structure": "if + Subject + Verb",
+          "example": "If you work hard, you will succeed."
+        },
+        {
+          "keyword": "unless",
+          "hindi": "जब तक नहीं",
+          "structure": "unless + positive clause",
+          "example": "Unless you study, you will fail."
+        },
+        {
+          "keyword": "provided that",
+          "hindi": "बशर्ते कि",
+          "structure": "provided that + condition clause",
+          "example": "You may enter the hall provided that you carry your admit card."
+        },
+        {
+          "keyword": "so that",
+          "hindi": "ताकि",
+          "structure": "so that + Subject + can/could/may/will",
+          "example": "He saved money so that he could buy a laptop."
+        },
+        {
+          "keyword": "in order to",
+          "hindi": "करने के लिए",
+          "structure": "in order to + V1",
+          "example": "She left early in order to catch the train."
+        }
+      ]
+    },
+    {
+      "family": "Addition, Example, Clarification, Time",
+      "meaning_hi": "जोड़ना, उदाहरण, स्पष्ट करना, समय",
+      "keywords": [
+        {
+          "keyword": "moreover",
+          "hindi": "इसके अलावा",
+          "structure": "Sentence. Moreover, sentence.",
+          "example": "The phone has a good camera. Moreover, it has a powerful battery."
+        },
+        {
+          "keyword": "furthermore",
+          "hindi": "इसके अतिरिक्त",
+          "structure": "Sentence. Furthermore, sentence.",
+          "example": "The plan is simple. Furthermore, it is practical."
+        },
+        {
+          "keyword": "for example",
+          "hindi": "उदाहरण के लिए",
+          "structure": "for example + example",
+          "example": "Some topics are important; for example, RC and Cloze Test are frequently asked."
+        },
+        {
+          "keyword": "in other words",
+          "hindi": "दूसरे शब्दों में",
+          "structure": "Sentence; in other words, explanation.",
+          "example": "The exam has sectional timing; in other words, each section has a fixed time limit."
+        },
+        {
+          "keyword": "otherwise",
+          "hindi": "नहीं तो / अन्यथा",
+          "structure": "Command/advice; otherwise, negative result.",
+          "example": "Work hard; otherwise, you may fail."
+        },
+        {
+          "keyword": "not only...but also",
+          "hindi": "न केवल...बल्कि",
+          "structure": "not only X but also Y",
+          "example": "She is not only intelligent but also hardworking."
+        },
+        {
+          "keyword": "as soon as",
+          "hindi": "जैसे ही",
+          "structure": "as soon as + clause",
+          "example": "As soon as he reached the station, the train left."
+        },
+        {
+          "keyword": "until",
+          "hindi": "जब तक",
+          "structure": "until + present/simple clause",
+          "example": "Wait here until I return."
+        }
+      ]
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "id": "pcq-001",
+      "keyword": "although",
+      "relation": "Contrast",
+      "type": "join",
+      "level": "Bank Prelims",
+      "prompt": "Join using although: He was ill. He attended the exam.",
+      "answer": "Although he was ill, he attended the exam.",
+      "explanation_en": "Although shows contrast. Illness and attending the exam are opposite/unexpected ideas.",
+      "explanation_hi": "Although contrast दिखाता है। Ill होना और exam attend करना opposite/unexpected situation है.",
+      "options": "pattern: Although + Subject + Verb"
+    },
+    {
+      "id": "pcq-002",
+      "keyword": "although",
+      "relation": "Contrast",
+      "type": "choose",
+      "level": "Bank Prelims",
+      "prompt": "Choose the correct sentence.",
+      "answer": "B. Although he was poor, he was honest.",
+      "explanation_en": "Although and but should not usually be used together in the same sentence.",
+      "explanation_hi": "Although + but साथ में generally गलत होता है।",
+      "options": [
+        "A. Although he was poor, but he was honest.",
+        "B. Although he was poor, he was honest."
+      ],
+      "pattern": "Avoid although + but"
+    },
+    {
+      "id": "pcq-003",
+      "keyword": "though",
+      "relation": "Contrast",
+      "type": "join",
+      "level": "Bank Prelims",
+      "prompt": "Join using though: The question was difficult. He solved it.",
+      "answer": "Though the question was difficult, he solved it.",
+      "explanation_en": "Though shows contrast between difficulty and successful solving.",
+      "explanation_hi": "Question difficult था, फिर भी उसने solve किया। यह contrast है.",
+      "options": "pattern: Though + Subject + Verb"
+    },
+    {
+      "id": "pcq-004",
+      "keyword": "though",
+      "relation": "Contrast",
+      "type": "fill",
+      "level": "Bank Prelims",
+      "prompt": "Fill in the blank: He is young, ___ he is very mature.",
+      "answer": "though",
+      "explanation_en": "Though shows contrast between being young and being mature.",
+      "explanation_hi": "Young होना और mature होना contrast create कर रहा है.",
+      "pattern": "though + clause"
+    },
+    {
+      "id": "pcq-005",
+      "keyword": "even though",
+      "relation": "Strong Contrast",
+      "type": "join",
+      "level": "Bank Prelims",
+      "prompt": "Join using even though: She had no experience. She got selected.",
+      "answer": "Even though she had no experience, she got selected.",
+      "explanation_en": "Even though shows strong contrast.",
+      "explanation_hi": "Even though strong contrast दिखाता है। भले ही उसके पास experience नहीं था, फिर भी वह select हो गई.",
+      "options": "pattern: Even though + Subject + Verb"
+    },
+    {
+      "id": "pcq-006",
+      "keyword": "even though",
+      "relation": "Strong Contrast",
+      "type": "choose",
+      "level": "Bank Prelims",
+      "prompt": "Choose the correct connector: ___ it was raining heavily, the match continued.",
+      "answer": "B. Even though",
+      "explanation_en": "Rain and the match continuing are opposite ideas, so a contrast connector is required.",
+      "explanation_hi": "Rain और match continue होना opposite direction में हैं, इसलिए contrast connector चाहिए.",
+      "options": [
+        "A. Because",
+        "B. Even though",
+        "C. Therefore"
+      ],
+      "pattern": "contrast connector"
+    },
+    {
+      "id": "pcq-007",
+      "keyword": "despite",
+      "relation": "Contrast",
+      "type": "join",
+      "level": "Bank Prelims",
+      "prompt": "Join using despite: He was tired. He continued working.",
+      "answer": "Despite being tired, he continued working.",
+      "explanation_en": "Despite takes a noun phrase or V-ing, not a full Subject + Verb clause.",
+      "explanation_hi": "Despite के बाद Subject + Verb नहीं आता; noun/V-ing आता है.",
+      "pattern": "Despite + noun/V-ing"
+    },
+    {
+      "id": "pcq-008",
+      "keyword": "despite",
+      "relation": "Contrast",
+      "type": "choose",
+      "level": "Bank Prelims",
+      "prompt": "Choose the correct sentence.",
+      "answer": "B. Despite being ill, he came to class.",
+      "explanation_en": "Despite should be followed by noun/V-ing, so 'being ill' is correct.",
+      "explanation_hi": "Despite + being ill correct है. 'Despite he was ill' wrong है.",
+      "options": [
+        "A. Despite he was ill, he came to class.",
+        "B. Despite being ill, he came to class."
+      ],
+      "pattern": "Despite + V-ing"
+    },
+    {
+      "id": "pcq-009",
+      "keyword": "in spite of",
+      "relation": "Contrast",
+      "type": "join",
+      "level": "Bank Prelims",
+      "prompt": "Join using in spite of: He had little money. He helped the poor.",
+      "answer": "In spite of having little money, he helped the poor.",
+      "explanation_en": "In spite of is used like despite and is followed by noun/V-ing.",
+      "explanation_hi": "In spite of भी despite जैसा है. इसके बाद noun या V-ing आता है.",
+      "pattern": "In spite of + noun/V-ing"
+    },
+    {
+      "id": "pcq-010",
+      "keyword": "in spite of",
+      "relation": "Contrast",
+      "type": "transform",
+      "level": "Bank Prelims",
+      "prompt": "Transform: Although she was nervous, she performed well.",
+      "answer": "In spite of being nervous, she performed well.",
+      "explanation_en": "Although + clause can be transformed into in spite of + V-ing/noun phrase.",
+      "explanation_hi": "Although + S + V को In spite of + V-ing में बदला गया.",
+      "pattern": "Although clause -> In spite of + V-ing"
+    },
+    {
+      "id": "pcq-011",
+      "keyword": "however",
+      "relation": "Contrast",
+      "type": "join",
+      "level": "Bank Prelims",
+      "prompt": "Join using however: The plan was expensive. It was effective.",
+      "answer": "The plan was expensive. However, it was effective.",
+      "explanation_en": "However is a formal contrast connector used between two sentences or clauses.",
+      "explanation_hi": "However formal contrast connector है. Plan महँगा था, हालाँकि effective था.",
+      "pattern": "Sentence. However, sentence."
+    },
+    {
+      "id": "pcq-012",
+      "keyword": "however",
+      "relation": "Contrast",
+      "type": "fill",
+      "level": "Bank Prelims",
+      "prompt": "Fill in the blank: He worked hard. ___, he could not pass.",
+      "answer": "However",
+      "explanation_en": "Working hard and not passing create contrast.",
+      "explanation_hi": "Worked hard but failed = contrast.",
+      "pattern": "However = but/formal contrast"
+    },
+    {
+      "id": "pcq-013",
+      "keyword": "whereas",
+      "relation": "Comparison Contrast",
+      "type": "join",
+      "level": "Bank Prelims",
+      "prompt": "Join using whereas: Ravi likes tea. Mohan likes coffee.",
+      "answer": "Ravi likes tea, whereas Mohan likes coffee.",
+      "explanation_en": "Whereas shows comparison contrast between two people or facts.",
+      "explanation_hi": "Whereas comparison contrast दिखाता है: Ravi tea पसंद करता है, जबकि Mohan coffee.",
+      "pattern": "Clause, whereas clause"
+    },
+    {
+      "id": "pcq-014",
+      "keyword": "whereas",
+      "relation": "Comparison Contrast",
+      "type": "choose",
+      "level": "Bank Prelims",
+      "prompt": "Choose the correct connector: The first method is fast, ___ the second method is more accurate.",
+      "answer": "B. whereas",
+      "explanation_en": "The sentence compares two methods and shows contrast between speed and accuracy.",
+      "explanation_hi": "Fast vs accurate — comparison contrast है.",
+      "options": [
+        "A. because",
+        "B. whereas",
+        "C. therefore"
+      ],
+      "pattern": "whereas for comparison contrast"
+    },
+    {
+      "id": "pcq-015",
+      "keyword": "while",
+      "relation": "Time/Contrast",
+      "type": "join",
+      "level": "Bank Prelims",
+      "prompt": "Join using while as contrast: Some students prefer online classes. Others prefer offline classes.",
+      "answer": "Some students prefer online classes, while others prefer offline classes.",
+      "explanation_en": "Here while means whereas and shows contrast.",
+      "explanation_hi": "यहाँ while का meaning 'whereas / जबकि' है.",
+      "pattern": "while = whereas"
+    },
+    {
+      "id": "pcq-016",
+      "keyword": "while",
+      "relation": "Time/Contrast",
+      "type": "join",
+      "level": "Bank Prelims",
+      "prompt": "Join using while as time: I was studying. My brother was watching TV.",
+      "answer": "While I was studying, my brother was watching TV.",
+      "explanation_en": "Here while shows that both actions happened at the same time.",
+      "explanation_hi": "यहाँ while time connector है: जब मैं पढ़ रहा था.",
+      "pattern": "while = when/during the time"
+    },
+    {
+      "id": "pcq-017",
+      "keyword": "because",
+      "relation": "Reason",
+      "type": "join",
+      "level": "Bank Prelims",
+      "prompt": "Join using because: He failed. He did not study.",
+      "answer": "He failed because he did not study.",
+      "explanation_en": "Because gives the reason and takes Subject + Verb after it.",
+      "explanation_hi": "Because reason बताता है और इसके बाद Subject + Verb आता है.",
+      "pattern": "Because + Subject + Verb"
+    },
+    {
+      "id": "pcq-018",
+      "keyword": "because",
+      "relation": "Reason",
+      "type": "choose",
+      "level": "Bank Prelims",
+      "prompt": "Choose the correct sentence.",
+      "answer": "B. He was late because he got stuck in traffic.",
+      "explanation_en": "Because should be followed by a full clause, not just a noun.",
+      "explanation_hi": "Because के बाद full clause चाहिए: he got stuck.",
+      "options": [
+        "A. He was late because traffic.",
+        "B. He was late because he got stuck in traffic."
+      ],
+      "pattern": "Because + clause"
+    },
+    {
+      "id": "pcq-019",
+      "keyword": "because of",
+      "relation": "Reason",
+      "type": "join",
+      "level": "Bank Prelims",
+      "prompt": "Join using because of: The match was cancelled. It rained heavily.",
+      "answer": "The match was cancelled because of heavy rain.",
+      "explanation_en": "Because of is followed by a noun phrase; 'heavy rain' is a noun phrase.",
+      "explanation_hi": "Because of के बाद noun आता है: heavy rain.",
+      "pattern": "Because of + noun/V-ing"
+    },
+    {
+      "id": "pcq-020",
+      "keyword": "because of",
+      "relation": "Reason",
+      "type": "choose",
+      "level": "Bank Prelims",
+      "prompt": "Choose the correct sentence.",
+      "answer": "B. Because of his carelessness, he failed.",
+      "explanation_en": "Because of should be followed by noun phrase; 'his carelessness' is a noun phrase.",
+      "explanation_hi": "Because of + noun. 'His carelessness' noun phrase है.",
+      "options": [
+        "A. Because of he was careless, he failed.",
+        "B. Because of his carelessness, he failed."
+      ],
+      "pattern": "Because of + noun phrase"
+    },
+    {
+      "id": "pcq-021",
+      "keyword": "due to",
+      "relation": "Reason",
+      "type": "join",
+      "level": "Bank Prelims",
+      "prompt": "Join using due to: The flight was delayed. There was bad weather.",
+      "answer": "The flight was delayed due to bad weather.",
+      "explanation_en": "Due to gives the reason and is followed by noun phrase.",
+      "explanation_hi": "Due to reason बताता है, और इसके बाद noun phrase आता है.",
+      "pattern": "Due to + noun phrase"
+    },
+    {
+      "id": "pcq-022",
+      "keyword": "due to",
+      "relation": "Reason",
+      "type": "fill",
+      "level": "Bank Prelims",
+      "prompt": "Fill in the blank: The school was closed ___ heavy rain.",
+      "answer": "due to",
+      "explanation_en": "Heavy rain is a noun phrase, so due to is correct.",
+      "explanation_hi": "Heavy rain noun phrase है, इसलिए due to correct है.",
+      "pattern": "due to + noun"
+    },
+    {
+      "id": "pcq-023",
+      "keyword": "since",
+      "relation": "Reason/Time",
+      "type": "join",
+      "level": "Bank Prelims",
+      "prompt": "Use since as reason: He was unwell. He stayed at home.",
+      "answer": "Since he was unwell, he stayed at home.",
+      "explanation_en": "Here since means because and gives a reason.",
+      "explanation_hi": "यहाँ since = because / चूँकि.",
+      "pattern": "Since = because"
+    },
+    {
+      "id": "pcq-024",
+      "keyword": "since",
+      "relation": "Reason/Time",
+      "type": "join",
+      "level": "Bank Prelims",
+      "prompt": "Use since as time: He has lived in Delhi. He came here in 2020.",
+      "answer": "He has lived in Delhi since 2020.",
+      "explanation_en": "Here since means from a point of time.",
+      "explanation_hi": "यहाँ since = तब से. Time point के लिए since use होता है.",
+      "pattern": "Since + time point"
+    },
+    {
+      "id": "pcq-025",
+      "keyword": "therefore",
+      "relation": "Result",
+      "type": "join",
+      "level": "Bank Prelims",
+      "prompt": "Join using therefore: He missed the bus. He reached late.",
+      "answer": "He missed the bus. Therefore, he reached late.",
+      "explanation_en": "Therefore shows result. Missing the bus caused him to reach late.",
+      "explanation_hi": "Therefore result दिखाता है. Bus miss करना reason है, late reach करना result.",
+      "pattern": "Sentence. Therefore, sentence."
+    },
+    {
+      "id": "pcq-026",
+      "keyword": "therefore",
+      "relation": "Result",
+      "type": "fill",
+      "level": "Bank Prelims",
+      "prompt": "Fill in the blank: The demand increased. ___, the prices rose.",
+      "answer": "Therefore",
+      "explanation_en": "Price rise is the result of increased demand.",
+      "explanation_hi": "Demand increase होने का result price rise है.",
+      "pattern": "therefore = result"
+    },
+    {
+      "id": "pcq-027",
+      "keyword": "thus",
+      "relation": "Result",
+      "type": "join",
+      "level": "Bank Prelims",
+      "prompt": "Join using thus: He practised daily. He improved his speed.",
+      "answer": "He practised daily. Thus, he improved his speed.",
+      "explanation_en": "Thus is a formal result connector.",
+      "explanation_hi": "Thus formal result connector है.",
+      "pattern": "Sentence. Thus, sentence."
+    },
+    {
+      "id": "pcq-028",
+      "keyword": "thus",
+      "relation": "Result",
+      "type": "choose",
+      "level": "Bank Prelims",
+      "prompt": "Choose the correct connector: The evidence was weak. ___, the case was dismissed.",
+      "answer": "A. Thus",
+      "explanation_en": "The case being dismissed is the result of weak evidence.",
+      "explanation_hi": "Weak evidence के कारण case dismiss हुआ. यह result है.",
+      "options": [
+        "A. Thus",
+        "B. Although",
+        "C. Because of"
+      ],
+      "pattern": "thus = result"
+    },
+    {
+      "id": "pcq-029",
+      "keyword": "hence",
+      "relation": "Result",
+      "type": "join",
+      "level": "Bank Prelims",
+      "prompt": "Join using hence: He was not eligible. His application was rejected.",
+      "answer": "He was not eligible. Hence, his application was rejected.",
+      "explanation_en": "Hence is a formal result connector.",
+      "explanation_hi": "Hence formal result connector है.",
+      "pattern": "Sentence. Hence, sentence."
+    },
+    {
+      "id": "pcq-030",
+      "keyword": "hence",
+      "relation": "Result",
+      "type": "fill",
+      "level": "Bank Prelims",
+      "prompt": "Fill in the blank: The data was incomplete. ___, the report could not be finalized.",
+      "answer": "Hence",
+      "explanation_en": "The report not being finalized is the result of incomplete data.",
+      "explanation_hi": "Incomplete data का result है report finalize न होना.",
+      "pattern": "hence = therefore"
+    },
+    {
+      "id": "pcq-031",
+      "keyword": "consequently",
+      "relation": "Result",
+      "type": "join",
+      "level": "Bank Prelims",
+      "prompt": "Join using consequently: The company reduced production. Many workers lost their jobs.",
+      "answer": "The company reduced production. Consequently, many workers lost their jobs.",
+      "explanation_en": "Consequently means as a result.",
+      "explanation_hi": "Consequently = as a result / परिणामस्वरूप.",
+      "pattern": "Sentence. Consequently, sentence."
+    },
+    {
+      "id": "pcq-032",
+      "keyword": "consequently",
+      "relation": "Result",
+      "type": "choose",
+      "level": "Bank Prelims",
+      "prompt": "Choose the correct connector: He ignored the warning. ___, he faced serious problems.",
+      "answer": "A. Consequently",
+      "explanation_en": "Facing problems is the result of ignoring the warning.",
+      "explanation_hi": "Warning ignore करने का result problems हैं.",
+      "options": [
+        "A. Consequently",
+        "B. Despite",
+        "C. Whereas"
+      ],
+      "pattern": "consequently = result"
+    },
+    {
+      "id": "pcq-033",
+      "keyword": "if",
+      "relation": "Condition",
+      "type": "join",
+      "level": "Bank Prelims",
+      "prompt": "Join using if: You work hard. You will succeed.",
+      "answer": "If you work hard, you will succeed.",
+      "explanation_en": "If introduces a condition.",
+      "explanation_hi": "If condition बताता है: अगर मेहनत करोगे, तो सफल होगे.",
+      "pattern": "If + condition clause"
+    },
+    {
+      "id": "pcq-034",
+      "keyword": "if",
+      "relation": "Condition",
+      "type": "fill",
+      "level": "Bank Prelims",
+      "prompt": "Fill in the blank: ___ you revise daily, you will remember the concepts.",
+      "answer": "If",
+      "explanation_en": "Daily revision is the condition for remembering concepts.",
+      "explanation_hi": "Daily revision condition है.",
+      "pattern": "If + simple present, will + V1"
+    },
+    {
+      "id": "pcq-035",
+      "keyword": "unless",
+      "relation": "Condition",
+      "type": "join",
+      "level": "Bank Prelims",
+      "prompt": "Join using unless: You do not study. You will fail.",
+      "answer": "Unless you study, you will fail.",
+      "explanation_en": "Unless means if not.",
+      "explanation_hi": "Unless = if not. जब तक तुम पढ़ाई नहीं करोगे, तुम fail होगे.",
+      "pattern": "Unless = if not"
+    },
+    {
+      "id": "pcq-036",
+      "keyword": "unless",
+      "relation": "Condition",
+      "type": "choose",
+      "level": "Bank Prelims",
+      "prompt": "Choose the correct sentence.",
+      "answer": "B. Unless you work hard, you will fail.",
+      "explanation_en": "Unless already carries negative meaning, so do not add extra not.",
+      "explanation_hi": "Unless already negative meaning देता है. इसके साथ extra not नहीं लगाना.",
+      "options": [
+        "A. Unless you do not work hard, you will fail.",
+        "B. Unless you work hard, you will fail."
+      ],
+      "pattern": "Avoid unless + not"
+    },
+    {
+      "id": "pcq-037",
+      "keyword": "provided that",
+      "relation": "Condition",
+      "type": "join",
+      "level": "Bank Prelims",
+      "prompt": "Join using provided that: You may enter the hall. You must carry your admit card.",
+      "answer": "You may enter the hall provided that you carry your admit card.",
+      "explanation_en": "Provided that is a formal condition connector.",
+      "explanation_hi": "Provided that formal condition connector है.",
+      "pattern": "provided that + condition"
+    },
+    {
+      "id": "pcq-038",
+      "keyword": "provided that",
+      "relation": "Condition",
+      "type": "fill",
+      "level": "Bank Prelims",
+      "prompt": "Fill in the blank: You can apply for the post ___ you meet the eligibility criteria.",
+      "answer": "provided that",
+      "explanation_en": "Meeting eligibility is the condition for applying.",
+      "explanation_hi": "Eligibility condition है.",
+      "pattern": "provided that = if/but only if"
+    },
+    {
+      "id": "pcq-039",
+      "keyword": "so that",
+      "relation": "Purpose",
+      "type": "join",
+      "level": "Bank Prelims",
+      "prompt": "Join using so that: He saved money. He wanted to buy a laptop.",
+      "answer": "He saved money so that he could buy a laptop.",
+      "explanation_en": "So that shows purpose.",
+      "explanation_hi": "So that purpose बताता है: उसने पैसे बचाए ताकि laptop खरीद सके.",
+      "pattern": "so that + could/can/may"
+    },
+    {
+      "id": "pcq-040",
+      "keyword": "so that",
+      "relation": "Purpose",
+      "type": "choose",
+      "level": "Bank Prelims",
+      "prompt": "Choose the correct connector: She spoke loudly ___ everyone could hear her.",
+      "answer": "B. so that",
+      "explanation_en": "The purpose of speaking loudly was that everyone could hear her.",
+      "explanation_hi": "Speaking loudly का purpose है everyone could hear her.",
+      "options": [
+        "A. because",
+        "B. so that",
+        "C. despite"
+      ],
+      "pattern": "so that = purpose"
+    },
+    {
+      "id": "pcq-041",
+      "keyword": "in order to",
+      "relation": "Purpose",
+      "type": "join",
+      "level": "Bank Prelims",
+      "prompt": "Join using in order to: He joined coaching. He wanted to improve his preparation.",
+      "answer": "He joined coaching in order to improve his preparation.",
+      "explanation_en": "In order to shows purpose and is followed by V1.",
+      "explanation_hi": "In order to purpose बताता है. Structure: in order to + V1.",
+      "pattern": "in order to + V1"
+    },
+    {
+      "id": "pcq-042",
+      "keyword": "in order to",
+      "relation": "Purpose",
+      "type": "fill",
+      "level": "Bank Prelims",
+      "prompt": "Fill in the blank: She left early ___ catch the train.",
+      "answer": "in order to",
+      "explanation_en": "Catching the train is the purpose of leaving early.",
+      "explanation_hi": "Catch the train purpose है.",
+      "pattern": "in order to + V1"
+    },
+    {
+      "id": "pcq-043",
+      "keyword": "moreover",
+      "relation": "Addition",
+      "type": "join",
+      "level": "Bank Prelims",
+      "prompt": "Join using moreover: The phone has a good camera. It also has a powerful battery.",
+      "answer": "The phone has a good camera. Moreover, it has a powerful battery.",
+      "explanation_en": "Moreover adds an extra positive point.",
+      "explanation_hi": "Moreover extra positive point add करता है.",
+      "pattern": "Sentence. Moreover, sentence."
+    },
+    {
+      "id": "pcq-044",
+      "keyword": "moreover",
+      "relation": "Addition",
+      "type": "fill",
+      "level": "Bank Prelims",
+      "prompt": "Fill in the blank: The course is affordable. ___, it provides quality content.",
+      "answer": "Moreover",
+      "explanation_en": "Both points move in the same direction, so an addition connector is needed.",
+      "explanation_hi": "दोनों points same direction में हैं. Addition connector चाहिए.",
+      "pattern": "moreover = in addition"
+    },
+    {
+      "id": "pcq-045",
+      "keyword": "furthermore",
+      "relation": "Addition",
+      "type": "join",
+      "level": "Bank Prelims",
+      "prompt": "Join using furthermore: The plan is simple. It is also practical.",
+      "answer": "The plan is simple. Furthermore, it is practical.",
+      "explanation_en": "Furthermore is a formal addition connector.",
+      "explanation_hi": "Furthermore formal addition connector है.",
+      "pattern": "Sentence. Furthermore, sentence."
+    },
+    {
+      "id": "pcq-046",
+      "keyword": "furthermore",
+      "relation": "Addition",
+      "type": "choose",
+      "level": "Bank Prelims",
+      "prompt": "Choose the correct connector: The policy will help farmers. ___, it will increase rural employment.",
+      "answer": "A. Furthermore",
+      "explanation_en": "The second point adds another benefit to the first point.",
+      "explanation_hi": "Second point first point में extra benefit add कर रहा है.",
+      "options": [
+        "A. Furthermore",
+        "B. Although",
+        "C. Unless"
+      ],
+      "pattern": "furthermore = addition"
+    },
+    {
+      "id": "pcq-047",
+      "keyword": "for example",
+      "relation": "Example",
+      "type": "fill",
+      "level": "Bank Prelims",
+      "prompt": "Fill in the blank: Many banking exams test reasoning skills; ___, IBPS SO and SBI SO include reasoning sections.",
+      "answer": "for example",
+      "explanation_en": "IBPS SO and SBI SO are examples.",
+      "explanation_hi": "IBPS SO और SBI SO examples हैं.",
+      "pattern": "for example + example"
+    },
+    {
+      "id": "pcq-048",
+      "keyword": "for example",
+      "relation": "Example",
+      "type": "join",
+      "level": "Bank Prelims",
+      "prompt": "Use for example: Some topics are important in English. RC and Cloze Test are two of them.",
+      "answer": "Some topics are important in English; for example, RC and Cloze Test are frequently asked.",
+      "explanation_en": "For example introduces examples to clarify a general idea.",
+      "explanation_hi": "For example example introduce करता है.",
+      "pattern": "general idea; for example, examples"
+    },
+    {
+      "id": "pcq-049",
+      "keyword": "in other words",
+      "relation": "Clarification",
+      "type": "join",
+      "level": "Bank Prelims",
+      "prompt": "Join using in other words: The exam has sectional timing. Each section has a fixed time limit.",
+      "answer": "The exam has sectional timing; in other words, each section has a fixed time limit.",
+      "explanation_en": "In other words gives clarification or restatement.",
+      "explanation_hi": "In other words clarification देता है.",
+      "pattern": "statement; in other words, explanation"
+    },
+    {
+      "id": "pcq-050",
+      "keyword": "in other words",
+      "relation": "Clarification",
+      "type": "fill",
+      "level": "Bank Prelims",
+      "prompt": "Fill in the blank: He is an introvert; ___, he prefers limited social interaction.",
+      "answer": "in other words",
+      "explanation_en": "The second part explains the first part.",
+      "explanation_hi": "Second sentence first sentence को explain कर रहा है.",
+      "pattern": "in other words = दूसरे शब्दों में"
+    },
+    {
+      "id": "pcq-051",
+      "keyword": "otherwise",
+      "relation": "Warning/Negative Result",
+      "type": "join",
+      "level": "Bank Prelims",
+      "prompt": "Join using otherwise: Work hard. You may fail.",
+      "answer": "Work hard; otherwise, you may fail.",
+      "explanation_en": "Otherwise shows a warning or negative result if the advice is not followed.",
+      "explanation_hi": "Otherwise warning/result दिखाता है: मेहनत करो, नहीं तो fail हो सकते हो.",
+      "pattern": "advice; otherwise, negative result"
+    },
+    {
+      "id": "pcq-052",
+      "keyword": "otherwise",
+      "relation": "Warning/Negative Result",
+      "type": "fill",
+      "level": "Bank Prelims",
+      "prompt": "Fill in the blank: Submit the form today; ___, you may miss the deadline.",
+      "answer": "otherwise",
+      "explanation_en": "If the form is not submitted, the negative result is missing the deadline.",
+      "explanation_hi": "Form submit न करने का negative result deadline miss होना है.",
+      "pattern": "otherwise = नहीं तो"
+    },
+    {
+      "id": "pcq-053",
+      "keyword": "not only...but also",
+      "relation": "Emphatic Addition",
+      "type": "join",
+      "level": "Bank Prelims",
+      "prompt": "Join using not only...but also: She is intelligent. She is hardworking.",
+      "answer": "She is not only intelligent but also hardworking.",
+      "explanation_en": "This connector shows addition with emphasis.",
+      "explanation_hi": "यह connector emphasis के साथ addition दिखाता है.",
+      "pattern": "not only X but also Y"
+    },
+    {
+      "id": "pcq-054",
+      "keyword": "not only...but also",
+      "relation": "Emphatic Addition",
+      "type": "correct",
+      "level": "Bank Prelims",
+      "prompt": "Correct the sentence if needed: He not only sings but also dances.",
+      "answer": "He not only sings but also dances.",
+      "explanation_en": "The sentence is already correct because the parallel structure is maintained: sings + dances.",
+      "explanation_hi": "यह sentence already correct है क्योंकि parallel structure maintain है: sings + dances.",
+      "pattern": "parallel structure"
+    },
+    {
+      "id": "pcq-055",
+      "keyword": "as soon as",
+      "relation": "Time",
+      "type": "join",
+      "level": "Bank Prelims",
+      "prompt": "Join using as soon as: He reached the station. The train left.",
+      "answer": "As soon as he reached the station, the train left.",
+      "explanation_en": "As soon as shows immediate time relation.",
+      "explanation_hi": "As soon as immediate time relation दिखाता है: जैसे ही वह station पहुँचा, train चली गई.",
+      "pattern": "As soon as + clause"
+    },
+    {
+      "id": "pcq-056",
+      "keyword": "as soon as",
+      "relation": "Time",
+      "type": "fill",
+      "level": "Bank Prelims",
+      "prompt": "Fill in the blank: ___ the exam started, the server crashed.",
+      "answer": "As soon as",
+      "explanation_en": "The server crashed immediately after the exam started.",
+      "explanation_hi": "Exam start होते ही server crash हुआ.",
+      "pattern": "as soon as = immediately when"
+    },
+    {
+      "id": "pcq-057",
+      "keyword": "until",
+      "relation": "Time",
+      "type": "join",
+      "level": "Bank Prelims",
+      "prompt": "Join using until: Wait here. I return.",
+      "answer": "Wait here until I return.",
+      "explanation_en": "Until shows continuation up to a point of time.",
+      "explanation_hi": "Until continuation दिखाता है: जब तक मैं वापस न आऊँ, यहीं रुको.",
+      "pattern": "until + present clause"
+    },
+    {
+      "id": "pcq-058",
+      "keyword": "until",
+      "relation": "Time",
+      "type": "choose",
+      "level": "Bank Prelims",
+      "prompt": "Choose the correct sentence.",
+      "answer": "A. I will wait until you come.",
+      "explanation_en": "After time connectors like until, when, and as soon as, simple present is used for future meaning in exam grammar.",
+      "explanation_hi": "Time connectors जैसे until, when, as soon as के बाद future meaning में भी simple present आता है.",
+      "options": [
+        "A. I will wait until you come.",
+        "B. I will wait until you will come."
+      ],
+      "pattern": "until + simple present"
+    },
+    {
+      "id": "pcq-059",
+      "keyword": "so...that",
+      "relation": "Degree/Result",
+      "type": "join",
+      "level": "Bank Prelims",
+      "prompt": "Join using so...that: He was very weak. He could not walk.",
+      "answer": "He was so weak that he could not walk.",
+      "explanation_en": "So...that shows degree and result.",
+      "explanation_hi": "So...that degree + result दिखाता है: वह इतना कमजोर था कि चल नहीं सकता था.",
+      "pattern": "so + adjective + that + result"
+    },
+    {
+      "id": "pcq-060",
+      "keyword": "so...that",
+      "relation": "Degree/Result",
+      "type": "fill",
+      "level": "Bank Prelims",
+      "prompt": "Fill in the blank: The question was ___ difficult ___ no one could solve it.",
+      "answer": "so...that",
+      "explanation_en": "The difficulty caused the result that no one solved it.",
+      "explanation_hi": "Difficulty का result है कि no one solved it.",
+      "pattern": "so + adjective + that"
+    }
+  ]
+}

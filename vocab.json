@@ -1,0 +1,3602 @@
+[
+  {
+    "id": 1,
+    "word": "Abate",
+    "meaning_en": "reduce, lessen",
+    "meaning_hi": "कम होना",
+    "synonyms": [
+      "decrease",
+      "subside"
+    ],
+    "antonyms": [
+      "intensify"
+    ],
+    "example": "Inflation is expected to abate in the coming quarters as RBI tightens monetary policy.",
+    "banking_usage": "Inflation is expected to abate in the coming quarters as RBI tightens monetary policy.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "IBPS Clerk",
+      "IBPS SO",
+      "SBI PO"
+    ],
+    "pronunciation_hint": "abate"
+  },
+  {
+    "id": 2,
+    "word": "Abhor",
+    "meaning_en": "hate deeply",
+    "meaning_hi": "घोर घृणा करना",
+    "synonyms": [
+      "detest",
+      "loathe"
+    ],
+    "antonyms": [
+      "admire"
+    ],
+    "example": "Auditors abhor any deviation from compliance norms in loan disbursal.",
+    "banking_usage": "Auditors abhor any deviation from compliance norms in loan disbursal.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "IBPS SO",
+      "SBI PO",
+      "SBI Clerk",
+      "RBI Grade B"
+    ],
+    "pronunciation_hint": "abhor"
+  },
+  {
+    "id": 3,
+    "word": "Abstain",
+    "meaning_en": "avoid, refrain",
+    "meaning_hi": "दूर रहना",
+    "synonyms": [
+      "desist",
+      "withhold"
+    ],
+    "antonyms": [
+      "indulge"
+    ],
+    "example": "Shareholders chose to abstain from voting on the merger proposal.",
+    "banking_usage": "Shareholders chose to abstain from voting on the merger proposal.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "SBI PO",
+      "SBI Clerk"
+    ],
+    "pronunciation_hint": "abstain"
+  },
+  {
+    "id": 4,
+    "word": "Accolade",
+    "meaning_en": "praise, honour",
+    "meaning_hi": "प्रशंसा/सम्मान",
+    "synonyms": [
+      "award",
+      "tribute"
+    ],
+    "antonyms": [
+      "criticism"
+    ],
+    "example": "The bank received an accolade for its digital banking initiative.",
+    "banking_usage": "The bank received an accolade for its digital banking initiative.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "SBI Clerk",
+      "RBI Grade B",
+      "SSC CGL"
+    ],
+    "pronunciation_hint": "accolade"
+  },
+  {
+    "id": 5,
+    "word": "Acumen",
+    "meaning_en": "sharp intelligence",
+    "meaning_hi": "कुशाग्रता",
+    "synonyms": [
+      "insight",
+      "wisdom"
+    ],
+    "antonyms": [
+      "ignorance"
+    ],
+    "example": "Strong financial acumen helped the branch manager identify a fraudulent transaction.",
+    "banking_usage": "Strong financial acumen helped the branch manager identify a fraudulent transaction.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "RBI Grade B",
+      "SSC CGL",
+      "IBPS PO",
+      "IBPS Clerk"
+    ],
+    "pronunciation_hint": "acumen"
+  },
+  {
+    "id": 6,
+    "word": "Adversity",
+    "meaning_en": "hardship",
+    "meaning_hi": "विपत्ति",
+    "synonyms": [
+      "difficulty",
+      "trouble"
+    ],
+    "antonyms": [
+      "prosperity"
+    ],
+    "example": "Despite economic adversity, the bank maintained healthy NPA ratios.",
+    "banking_usage": "Despite economic adversity, the bank maintained healthy NPA ratios.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "SSC CGL",
+      "IBPS PO"
+    ],
+    "pronunciation_hint": "adversity"
+  },
+  {
+    "id": 7,
+    "word": "Advocate",
+    "meaning_en": "support",
+    "meaning_hi": "समर्थन करना",
+    "synonyms": [
+      "recommend",
+      "favour"
+    ],
+    "antonyms": [
+      "oppose"
+    ],
+    "example": "The RBI governor continues to advocate for cashless transactions.",
+    "banking_usage": "The RBI governor continues to advocate for cashless transactions.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "IBPS PO",
+      "IBPS Clerk",
+      "IBPS SO"
+    ],
+    "pronunciation_hint": "advocate"
+  },
+  {
+    "id": 8,
+    "word": "Alleviate",
+    "meaning_en": "reduce pain/problem",
+    "meaning_hi": "कम करना",
+    "synonyms": [
+      "ease",
+      "relieve"
+    ],
+    "antonyms": [
+      "worsen"
+    ],
+    "example": "The relief package aims to alleviate the burden on small borrowers.",
+    "banking_usage": "The relief package aims to alleviate the burden on small borrowers.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "IBPS Clerk",
+      "IBPS SO",
+      "SBI PO",
+      "SBI Clerk"
+    ],
+    "pronunciation_hint": "alleviate"
+  },
+  {
+    "id": 9,
+    "word": "Amicable",
+    "meaning_en": "friendly",
+    "meaning_hi": "मैत्रीपूर्ण",
+    "synonyms": [
+      "cordial",
+      "peaceful"
+    ],
+    "antonyms": [
+      "hostile"
+    ],
+    "example": "The two banks reached an amicable settlement over the disputed loan account.",
+    "banking_usage": "The two banks reached an amicable settlement over the disputed loan account.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "IBPS SO",
+      "SBI PO"
+    ],
+    "pronunciation_hint": "amicable"
+  },
+  {
+    "id": 10,
+    "word": "Anarchy",
+    "meaning_en": "lawlessness",
+    "meaning_hi": "अव्यवस्था",
+    "synonyms": [
+      "disorder",
+      "chaos"
+    ],
+    "antonyms": [
+      "order"
+    ],
+    "example": "Lack of regulation can lead to financial anarchy in unorganized lending markets.",
+    "banking_usage": "Lack of regulation can lead to financial anarchy in unorganized lending markets.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "SBI PO",
+      "SBI Clerk",
+      "RBI Grade B"
+    ],
+    "pronunciation_hint": "anarchy"
+  },
+  {
+    "id": 11,
+    "word": "Anecdote",
+    "meaning_en": "short story",
+    "meaning_hi": "किस्सा",
+    "synonyms": [
+      "tale",
+      "incident"
+    ],
+    "antonyms": [
+      "long account"
+    ],
+    "example": "The customer shared an anecdote about a delayed fund transfer.",
+    "banking_usage": "The customer shared an anecdote about a delayed fund transfer.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "SBI Clerk",
+      "RBI Grade B",
+      "SSC CGL",
+      "IBPS PO"
+    ],
+    "pronunciation_hint": "anecdote"
+  },
+  {
+    "id": 12,
+    "word": "Apathy",
+    "meaning_en": "lack of interest",
+    "meaning_hi": "उदासीनता",
+    "synonyms": [
+      "indifference",
+      "unconcern"
+    ],
+    "antonyms": [
+      "enthusiasm"
+    ],
+    "example": "Customer apathy towards mobile banking apps is declining as awareness grows.",
+    "banking_usage": "Customer apathy towards mobile banking apps is declining as awareness grows.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "RBI Grade B",
+      "SSC CGL"
+    ],
+    "pronunciation_hint": "apathy"
+  },
+  {
+    "id": 13,
+    "word": "Arduous",
+    "meaning_en": "very difficult",
+    "meaning_hi": "कठिन",
+    "synonyms": [
+      "tough",
+      "strenuous"
+    ],
+    "antonyms": [
+      "easy"
+    ],
+    "example": "Recovering bad loans is often an arduous process for banks.",
+    "banking_usage": "Recovering bad loans is often an arduous process for banks.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "SSC CGL",
+      "IBPS PO",
+      "IBPS Clerk"
+    ],
+    "pronunciation_hint": "arduous"
+  },
+  {
+    "id": 14,
+    "word": "Articulate",
+    "meaning_en": "express clearly",
+    "meaning_hi": "स्पष्ट रूप से व्यक्त करना",
+    "synonyms": [
+      "fluent",
+      "clear"
+    ],
+    "antonyms": [
+      "unclear"
+    ],
+    "example": "The relationship manager must articulate the terms of the fixed deposit clearly.",
+    "banking_usage": "The relationship manager must articulate the terms of the fixed deposit clearly.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Hard",
+    "exam_relevance": [
+      "IBPS PO",
+      "IBPS Clerk",
+      "IBPS SO",
+      "SBI PO"
+    ],
+    "pronunciation_hint": "articulate"
+  },
+  {
+    "id": 15,
+    "word": "Aspire",
+    "meaning_en": "aim/desire",
+    "meaning_hi": "आकांक्षा रखना",
+    "synonyms": [
+      "desire",
+      "seek"
+    ],
+    "antonyms": [
+      "abandon"
+    ],
+    "example": "Many fintech startups aspire to disrupt traditional banking models.",
+    "banking_usage": "Many fintech startups aspire to disrupt traditional banking models.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "IBPS Clerk",
+      "IBPS SO"
+    ],
+    "pronunciation_hint": "aspire"
+  },
+  {
+    "id": 16,
+    "word": "Audacious",
+    "meaning_en": "bold/daring",
+    "meaning_hi": "साहसी",
+    "synonyms": [
+      "fearless",
+      "daring"
+    ],
+    "antonyms": [
+      "timid"
+    ],
+    "example": "The bank launched an audacious plan to double its rural branch network.",
+    "banking_usage": "The bank launched an audacious plan to double its rural branch network.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "IBPS SO",
+      "SBI PO",
+      "SBI Clerk"
+    ],
+    "pronunciation_hint": "audacious"
+  },
+  {
+    "id": 17,
+    "word": "Authentic",
+    "meaning_en": "genuine",
+    "meaning_hi": "प्रामाणिक",
+    "synonyms": [
+      "real",
+      "original"
+    ],
+    "antonyms": [
+      "fake"
+    ],
+    "example": "Banks verify authentic documents before approving a loan.",
+    "banking_usage": "Banks verify authentic documents before approving a loan.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "SBI PO",
+      "SBI Clerk",
+      "RBI Grade B",
+      "SSC CGL"
+    ],
+    "pronunciation_hint": "authentic"
+  },
+  {
+    "id": 18,
+    "word": "Avert",
+    "meaning_en": "prevent",
+    "meaning_hi": "टालना",
+    "synonyms": [
+      "avoid",
+      "stop"
+    ],
+    "antonyms": [
+      "cause"
+    ],
+    "example": "Strong KYC norms help avert identity theft in banking transactions.",
+    "banking_usage": "Strong KYC norms help avert identity theft in banking transactions.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "SBI Clerk",
+      "RBI Grade B"
+    ],
+    "pronunciation_hint": "avert"
+  },
+  {
+    "id": 19,
+    "word": "Benevolent",
+    "meaning_en": "kind/generous",
+    "meaning_hi": "दयालु",
+    "synonyms": [
+      "charitable",
+      "helpful"
+    ],
+    "antonyms": [
+      "cruel"
+    ],
+    "example": "The bank introduced a benevolent loan scheme for farmers affected by floods.",
+    "banking_usage": "The bank introduced a benevolent loan scheme for farmers affected by floods.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Hard",
+    "exam_relevance": [
+      "RBI Grade B",
+      "SSC CGL",
+      "IBPS PO"
+    ],
+    "pronunciation_hint": "benevolent"
+  },
+  {
+    "id": 20,
+    "word": "Bolster",
+    "meaning_en": "support/strengthen",
+    "meaning_hi": "मजबूत करना",
+    "synonyms": [
+      "uphold",
+      "reinforce"
+    ],
+    "antonyms": [
+      "weaken"
+    ],
+    "example": "The capital infusion will bolster the bank's balance sheet.",
+    "banking_usage": "The capital infusion will bolster the bank's balance sheet.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "SSC CGL",
+      "IBPS PO",
+      "IBPS Clerk",
+      "IBPS SO"
+    ],
+    "pronunciation_hint": "bolster"
+  },
+  {
+    "id": 21,
+    "word": "Candid",
+    "meaning_en": "honest/frank",
+    "meaning_hi": "स्पष्टवादी",
+    "synonyms": [
+      "truthful",
+      "open"
+    ],
+    "antonyms": [
+      "secretive"
+    ],
+    "example": "The CFO gave a candid assessment of the bank's rising NPAs.",
+    "banking_usage": "The CFO gave a candid assessment of the bank's rising NPAs.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "IBPS PO",
+      "IBPS Clerk"
+    ],
+    "pronunciation_hint": "candid"
+  },
+  {
+    "id": 22,
+    "word": "Capricious",
+    "meaning_en": "unpredictable",
+    "meaning_hi": "मनमौजी",
+    "synonyms": [
+      "fickle",
+      "unstable"
+    ],
+    "antonyms": [
+      "steady"
+    ],
+    "example": "capricious stock market movements affect mutual fund NAVs.",
+    "banking_usage": "capricious stock market movements affect mutual fund NAVs.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Hard",
+    "exam_relevance": [
+      "IBPS Clerk",
+      "IBPS SO",
+      "SBI PO"
+    ],
+    "pronunciation_hint": "capricious"
+  },
+  {
+    "id": 23,
+    "word": "Coerce",
+    "meaning_en": "force",
+    "meaning_hi": "बाध्य करना",
+    "synonyms": [
+      "compel",
+      "pressure"
+    ],
+    "antonyms": [
+      "persuade"
+    ],
+    "example": "No bank official can coerce a customer into buying insurance products.",
+    "banking_usage": "No bank official can coerce a customer into buying insurance products.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "IBPS SO",
+      "SBI PO",
+      "SBI Clerk",
+      "RBI Grade B"
+    ],
+    "pronunciation_hint": "coerce"
+  },
+  {
+    "id": 24,
+    "word": "Comply",
+    "meaning_en": "follow rules",
+    "meaning_hi": "अनुपालन करना",
+    "synonyms": [
+      "obey",
+      "conform"
+    ],
+    "antonyms": [
+      "violate"
+    ],
+    "example": "All banks must comply with RBI's new digital lending guidelines.",
+    "banking_usage": "All banks must comply with RBI's new digital lending guidelines.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "SBI PO",
+      "SBI Clerk"
+    ],
+    "pronunciation_hint": "comply"
+  },
+  {
+    "id": 25,
+    "word": "Concur",
+    "meaning_en": "agree",
+    "meaning_hi": "सहमत होना",
+    "synonyms": [
+      "consent",
+      "approve"
+    ],
+    "antonyms": [
+      "disagree"
+    ],
+    "example": "The board members concur with the proposal to raise interest rates.",
+    "banking_usage": "The board members concur with the proposal to raise interest rates.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "SBI Clerk",
+      "RBI Grade B",
+      "SSC CGL"
+    ],
+    "pronunciation_hint": "concur"
+  },
+  {
+    "id": 26,
+    "word": "Condone",
+    "meaning_en": "overlook/forgive",
+    "meaning_hi": "क्षमा करना",
+    "synonyms": [
+      "pardon",
+      "excuse"
+    ],
+    "antonyms": [
+      "condemn"
+    ],
+    "example": "The bank will not condone any lapse in cybersecurity protocols.",
+    "banking_usage": "The bank will not condone any lapse in cybersecurity protocols.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "RBI Grade B",
+      "SSC CGL",
+      "IBPS PO",
+      "IBPS Clerk"
+    ],
+    "pronunciation_hint": "condone"
+  },
+  {
+    "id": 27,
+    "word": "Conspicuous",
+    "meaning_en": "easily noticeable",
+    "meaning_hi": "स्पष्ट रूप से दिखाई देने वाला",
+    "synonyms": [
+      "obvious",
+      "visible"
+    ],
+    "antonyms": [
+      "hidden"
+    ],
+    "example": "There was a conspicuous rise in digital transactions post demonetisation.",
+    "banking_usage": "There was a conspicuous rise in digital transactions post demonetisation.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Hard",
+    "exam_relevance": [
+      "SSC CGL",
+      "IBPS PO"
+    ],
+    "pronunciation_hint": "conspicuous"
+  },
+  {
+    "id": 28,
+    "word": "Contradict",
+    "meaning_en": "oppose/deny",
+    "meaning_hi": "विरोध करना",
+    "synonyms": [
+      "refute",
+      "challenge"
+    ],
+    "antonyms": [
+      "support"
+    ],
+    "example": "The auditor's report seemed to contradict the branch manager's claims.",
+    "banking_usage": "The auditor's report seemed to contradict the branch manager's claims.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Hard",
+    "exam_relevance": [
+      "IBPS PO",
+      "IBPS Clerk",
+      "IBPS SO"
+    ],
+    "pronunciation_hint": "contradict"
+  },
+  {
+    "id": 29,
+    "word": "Conventional",
+    "meaning_en": "traditional",
+    "meaning_hi": "पारंपरिक",
+    "synonyms": [
+      "usual",
+      "standard"
+    ],
+    "antonyms": [
+      "modern"
+    ],
+    "example": "conventional banking is gradually being replaced by digital-first models.",
+    "banking_usage": "conventional banking is gradually being replaced by digital-first models.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Hard",
+    "exam_relevance": [
+      "IBPS Clerk",
+      "IBPS SO",
+      "SBI PO",
+      "SBI Clerk"
+    ],
+    "pronunciation_hint": "conventional"
+  },
+  {
+    "id": 30,
+    "word": "Cynical",
+    "meaning_en": "distrustful",
+    "meaning_hi": "संदेहवादी",
+    "synonyms": [
+      "suspicious",
+      "negative"
+    ],
+    "antonyms": [
+      "optimistic"
+    ],
+    "example": "Customers grew cynical about hidden charges on credit cards.",
+    "banking_usage": "Customers grew cynical about hidden charges on credit cards.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "IBPS SO",
+      "SBI PO"
+    ],
+    "pronunciation_hint": "cynical"
+  },
+  {
+    "id": 31,
+    "word": "Dauntless",
+    "meaning_en": "fearless",
+    "meaning_hi": "निडर",
+    "synonyms": [
+      "brave",
+      "bold"
+    ],
+    "antonyms": [
+      "cowardly"
+    ],
+    "example": "The branch staff remained dauntless during the cyberattack attempt.",
+    "banking_usage": "The branch staff remained dauntless during the cyberattack attempt.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "SBI PO",
+      "SBI Clerk",
+      "RBI Grade B"
+    ],
+    "pronunciation_hint": "dauntless"
+  },
+  {
+    "id": 32,
+    "word": "Debilitate",
+    "meaning_en": "weaken",
+    "meaning_hi": "कमजोर करना",
+    "synonyms": [
+      "impair",
+      "exhaust"
+    ],
+    "antonyms": [
+      "strengthen"
+    ],
+    "example": "Mounting NPAs can debilitate a bank's lending capacity.",
+    "banking_usage": "Mounting NPAs can debilitate a bank's lending capacity.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Hard",
+    "exam_relevance": [
+      "SBI Clerk",
+      "RBI Grade B",
+      "SSC CGL",
+      "IBPS PO"
+    ],
+    "pronunciation_hint": "debilitate"
+  },
+  {
+    "id": 33,
+    "word": "Decipher",
+    "meaning_en": "decode/understand",
+    "meaning_hi": "समझना/कूट खोलना",
+    "synonyms": [
+      "interpret",
+      "decode"
+    ],
+    "antonyms": [
+      "confuse"
+    ],
+    "example": "Analysts had to decipher the complex loan restructuring terms.",
+    "banking_usage": "Analysts had to decipher the complex loan restructuring terms.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "RBI Grade B",
+      "SSC CGL"
+    ],
+    "pronunciation_hint": "decipher"
+  },
+  {
+    "id": 34,
+    "word": "Defer",
+    "meaning_en": "postpone",
+    "meaning_hi": "स्थगित करना",
+    "synonyms": [
+      "delay",
+      "adjourn"
+    ],
+    "antonyms": [
+      "advance"
+    ],
+    "example": "The borrower requested to defer the EMI payment for two months.",
+    "banking_usage": "The borrower requested to defer the EMI payment for two months.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "SSC CGL",
+      "IBPS PO",
+      "IBPS Clerk"
+    ],
+    "pronunciation_hint": "defer"
+  },
+  {
+    "id": 35,
+    "word": "Demeanor",
+    "meaning_en": "behaviour",
+    "meaning_hi": "व्यवहार",
+    "synonyms": [
+      "conduct",
+      "attitude"
+    ],
+    "antonyms": [
+      "misconduct"
+    ],
+    "example": "The teller's calm demeanor reassured anxious customers during the system outage.",
+    "banking_usage": "The teller's calm demeanor reassured anxious customers during the system outage.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "IBPS PO",
+      "IBPS Clerk",
+      "IBPS SO",
+      "SBI PO"
+    ],
+    "pronunciation_hint": "demeanor"
+  },
+  {
+    "id": 36,
+    "word": "Denounce",
+    "meaning_en": "criticize openly",
+    "meaning_hi": "खुले में निंदा करना",
+    "synonyms": [
+      "condemn",
+      "attack"
+    ],
+    "antonyms": [
+      "praise"
+    ],
+    "example": "RBI officials denounce the practice of mis-selling insurance with loans.",
+    "banking_usage": "RBI officials denounce the practice of mis-selling insurance with loans.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "IBPS Clerk",
+      "IBPS SO"
+    ],
+    "pronunciation_hint": "denounce"
+  },
+  {
+    "id": 37,
+    "word": "Deplete",
+    "meaning_en": "reduce/use up",
+    "meaning_hi": "समाप्त करना",
+    "synonyms": [
+      "exhaust",
+      "drain"
+    ],
+    "antonyms": [
+      "replenish"
+    ],
+    "example": "Frequent withdrawals can deplete the reserve fund quickly.",
+    "banking_usage": "Frequent withdrawals can deplete the reserve fund quickly.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "IBPS SO",
+      "SBI PO",
+      "SBI Clerk"
+    ],
+    "pronunciation_hint": "deplete"
+  },
+  {
+    "id": 38,
+    "word": "Derive",
+    "meaning_en": "obtain from",
+    "meaning_hi": "प्राप्त करना",
+    "synonyms": [
+      "get",
+      "extract"
+    ],
+    "antonyms": [
+      "lose"
+    ],
+    "example": "Banks derive a major portion of income from interest on loans.",
+    "banking_usage": "Banks derive a major portion of income from interest on loans.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "SBI PO",
+      "SBI Clerk",
+      "RBI Grade B",
+      "SSC CGL"
+    ],
+    "pronunciation_hint": "derive"
+  },
+  {
+    "id": 39,
+    "word": "Deteriorate",
+    "meaning_en": "become worse",
+    "meaning_hi": "बिगड़ना",
+    "synonyms": [
+      "worsen",
+      "decline"
+    ],
+    "antonyms": [
+      "improve"
+    ],
+    "example": "The asset quality began to deteriorate during the pandemic.",
+    "banking_usage": "The asset quality began to deteriorate during the pandemic.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Hard",
+    "exam_relevance": [
+      "SBI Clerk",
+      "RBI Grade B"
+    ],
+    "pronunciation_hint": "deteriorate"
+  },
+  {
+    "id": 40,
+    "word": "Diligent",
+    "meaning_en": "hardworking",
+    "meaning_hi": "मेहनती",
+    "synonyms": [
+      "careful",
+      "industrious"
+    ],
+    "antonyms": [
+      "lazy"
+    ],
+    "example": "A diligent credit officer cross-checks every loan application thoroughly.",
+    "banking_usage": "A diligent credit officer cross-checks every loan application thoroughly.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "RBI Grade B",
+      "SSC CGL",
+      "IBPS PO"
+    ],
+    "pronunciation_hint": "diligent"
+  },
+  {
+    "id": 41,
+    "word": "Discreet",
+    "meaning_en": "careful/cautious",
+    "meaning_hi": "सावधान/विवेकपूर्ण",
+    "synonyms": [
+      "prudent",
+      "tactful"
+    ],
+    "antonyms": [
+      "careless"
+    ],
+    "example": "Bank staff must remain discreet about customer account details.",
+    "banking_usage": "Bank staff must remain discreet about customer account details.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "SSC CGL",
+      "IBPS PO",
+      "IBPS Clerk",
+      "IBPS SO"
+    ],
+    "pronunciation_hint": "discreet"
+  },
+  {
+    "id": 42,
+    "word": "Disdain",
+    "meaning_en": "contempt",
+    "meaning_hi": "तिरस्कार",
+    "synonyms": [
+      "scorn",
+      "disrespect"
+    ],
+    "antonyms": [
+      "respect"
+    ],
+    "example": "Customers showed disdain for banks with poor grievance redressal.",
+    "banking_usage": "Customers showed disdain for banks with poor grievance redressal.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "IBPS PO",
+      "IBPS Clerk"
+    ],
+    "pronunciation_hint": "disdain"
+  },
+  {
+    "id": 43,
+    "word": "Disperse",
+    "meaning_en": "scatter",
+    "meaning_hi": "बिखेरना",
+    "synonyms": [
+      "spread",
+      "distribute"
+    ],
+    "antonyms": [
+      "gather"
+    ],
+    "example": "The crowd outside the branch began to disperse after the system was restored.",
+    "banking_usage": "The crowd outside the branch began to disperse after the system was restored.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "IBPS Clerk",
+      "IBPS SO",
+      "SBI PO"
+    ],
+    "pronunciation_hint": "disperse"
+  },
+  {
+    "id": 44,
+    "word": "Diverse",
+    "meaning_en": "varied",
+    "meaning_hi": "विविध",
+    "synonyms": [
+      "different",
+      "varied"
+    ],
+    "antonyms": [
+      "similar"
+    ],
+    "example": "The bank offers a diverse range of investment products.",
+    "banking_usage": "The bank offers a diverse range of investment products.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "IBPS SO",
+      "SBI PO",
+      "SBI Clerk",
+      "RBI Grade B"
+    ],
+    "pronunciation_hint": "diverse"
+  },
+  {
+    "id": 45,
+    "word": "Docile",
+    "meaning_en": "obedient",
+    "meaning_hi": "विनयशील",
+    "synonyms": [
+      "submissive",
+      "gentle"
+    ],
+    "antonyms": [
+      "rebellious"
+    ],
+    "example": "The new recruits were docile and quick to follow SOPs.",
+    "banking_usage": "The new recruits were docile and quick to follow SOPs.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "SBI PO",
+      "SBI Clerk"
+    ],
+    "pronunciation_hint": "docile"
+  },
+  {
+    "id": 46,
+    "word": "Dormant",
+    "meaning_en": "inactive",
+    "meaning_hi": "निष्क्रिय",
+    "synonyms": [
+      "sleeping",
+      "idle"
+    ],
+    "antonyms": [
+      "active"
+    ],
+    "example": "A dormant account is reactivated after the customer submits KYC documents.",
+    "banking_usage": "A dormant account is reactivated after the customer submits KYC documents.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "SBI Clerk",
+      "RBI Grade B",
+      "SSC CGL"
+    ],
+    "pronunciation_hint": "dormant"
+  },
+  {
+    "id": 47,
+    "word": "Dubious",
+    "meaning_en": "doubtful",
+    "meaning_hi": "संदेहजनक",
+    "synonyms": [
+      "uncertain",
+      "suspicious"
+    ],
+    "antonyms": [
+      "certain"
+    ],
+    "example": "The auditor flagged a dubious transaction in the corporate account.",
+    "banking_usage": "The auditor flagged a dubious transaction in the corporate account.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "RBI Grade B",
+      "SSC CGL",
+      "IBPS PO",
+      "IBPS Clerk"
+    ],
+    "pronunciation_hint": "dubious"
+  },
+  {
+    "id": 48,
+    "word": "Eccentric",
+    "meaning_en": "unusual/strange",
+    "meaning_hi": "विचित्र",
+    "synonyms": [
+      "odd",
+      "peculiar"
+    ],
+    "antonyms": [
+      "normal"
+    ],
+    "example": "The investor had an eccentric approach to portfolio diversification.",
+    "banking_usage": "The investor had an eccentric approach to portfolio diversification.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "SSC CGL",
+      "IBPS PO"
+    ],
+    "pronunciation_hint": "eccentric"
+  },
+  {
+    "id": 49,
+    "word": "Ecstatic",
+    "meaning_en": "extremely happy",
+    "meaning_hi": "अत्यंत प्रसन्न",
+    "synonyms": [
+      "delighted",
+      "thrilled"
+    ],
+    "antonyms": [
+      "miserable"
+    ],
+    "example": "Customers were ecstatic after the loan waiver announcement.",
+    "banking_usage": "Customers were ecstatic after the loan waiver announcement.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "IBPS PO",
+      "IBPS Clerk",
+      "IBPS SO"
+    ],
+    "pronunciation_hint": "ecstatic"
+  },
+  {
+    "id": 50,
+    "word": "Eloquent",
+    "meaning_en": "fluent/persuasive",
+    "meaning_hi": "वाक्पटु",
+    "synonyms": [
+      "expressive",
+      "articulate"
+    ],
+    "antonyms": [
+      "inarticulate"
+    ],
+    "example": "The bank's spokesperson gave an eloquent explanation of the new policy.",
+    "banking_usage": "The bank's spokesperson gave an eloquent explanation of the new policy.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "IBPS Clerk",
+      "IBPS SO",
+      "SBI PO",
+      "SBI Clerk"
+    ],
+    "pronunciation_hint": "eloquent"
+  },
+  {
+    "id": 51,
+    "word": "Elusive",
+    "meaning_en": "hard to find",
+    "meaning_hi": "मुश्किल से मिलने वाला",
+    "synonyms": [
+      "evasive",
+      "slippery"
+    ],
+    "antonyms": [
+      "obvious"
+    ],
+    "example": "Profitability remained elusive for the loss-making branch despite cost cuts.",
+    "banking_usage": "Profitability remained elusive for the loss-making branch despite cost cuts.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "IBPS SO",
+      "SBI PO"
+    ],
+    "pronunciation_hint": "elusive"
+  },
+  {
+    "id": 52,
+    "word": "Emulate",
+    "meaning_en": "imitate",
+    "meaning_hi": "नकल करना",
+    "synonyms": [
+      "copy",
+      "follow"
+    ],
+    "antonyms": [
+      "ignore"
+    ],
+    "example": "Smaller banks emulate the digital strategies of larger private banks.",
+    "banking_usage": "Smaller banks emulate the digital strategies of larger private banks.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "SBI PO",
+      "SBI Clerk",
+      "RBI Grade B"
+    ],
+    "pronunciation_hint": "emulate"
+  },
+  {
+    "id": 53,
+    "word": "Enigma",
+    "meaning_en": "mystery",
+    "meaning_hi": "रहस्य",
+    "synonyms": [
+      "puzzle",
+      "riddle"
+    ],
+    "antonyms": [
+      "clarity"
+    ],
+    "example": "The sudden default remained an enigma until the forensic audit was completed.",
+    "banking_usage": "The sudden default remained an enigma until the forensic audit was completed.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "SBI Clerk",
+      "RBI Grade B",
+      "SSC CGL",
+      "IBPS PO"
+    ],
+    "pronunciation_hint": "enigma"
+  },
+  {
+    "id": 54,
+    "word": "Erratic",
+    "meaning_en": "irregular",
+    "meaning_hi": "अनियमित",
+    "synonyms": [
+      "unstable",
+      "unpredictable"
+    ],
+    "antonyms": [
+      "regular"
+    ],
+    "example": "erratic repayment behaviour increases a borrower's credit risk.",
+    "banking_usage": "erratic repayment behaviour increases a borrower's credit risk.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "RBI Grade B",
+      "SSC CGL"
+    ],
+    "pronunciation_hint": "erratic"
+  },
+  {
+    "id": 55,
+    "word": "Erudite",
+    "meaning_en": "very knowledgeable",
+    "meaning_hi": "विद्वान",
+    "synonyms": [
+      "learned",
+      "scholarly"
+    ],
+    "antonyms": [
+      "ignorant"
+    ],
+    "example": "The economist gave an erudite lecture on monetary policy.",
+    "banking_usage": "The economist gave an erudite lecture on monetary policy.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "SSC CGL",
+      "IBPS PO",
+      "IBPS Clerk"
+    ],
+    "pronunciation_hint": "erudite"
+  },
+  {
+    "id": 56,
+    "word": "Esoteric",
+    "meaning_en": "understood by few",
+    "meaning_hi": "गूढ़",
+    "synonyms": [
+      "obscure",
+      "deep"
+    ],
+    "antonyms": [
+      "common"
+    ],
+    "example": "Derivative trading involves esoteric financial instruments.",
+    "banking_usage": "Derivative trading involves esoteric financial instruments.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "IBPS PO",
+      "IBPS Clerk",
+      "IBPS SO",
+      "SBI PO"
+    ],
+    "pronunciation_hint": "esoteric"
+  },
+  {
+    "id": 57,
+    "word": "Exemplary",
+    "meaning_en": "ideal/model",
+    "meaning_hi": "अनुकरणीय",
+    "synonyms": [
+      "excellent",
+      "perfect"
+    ],
+    "antonyms": [
+      "poor"
+    ],
+    "example": "The branch received an award for exemplary customer service.",
+    "banking_usage": "The branch received an award for exemplary customer service.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "IBPS Clerk",
+      "IBPS SO"
+    ],
+    "pronunciation_hint": "exemplary"
+  },
+  {
+    "id": 58,
+    "word": "Exonerate",
+    "meaning_en": "free from blame",
+    "meaning_hi": "दोषमुक्त करना",
+    "synonyms": [
+      "acquit",
+      "clear"
+    ],
+    "antonyms": [
+      "convict"
+    ],
+    "example": "The internal probe exonerate the manager of any wrongdoing.",
+    "banking_usage": "The internal probe exonerate the manager of any wrongdoing.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "IBPS SO",
+      "SBI PO",
+      "SBI Clerk"
+    ],
+    "pronunciation_hint": "exonerate"
+  },
+  {
+    "id": 59,
+    "word": "Extravagant",
+    "meaning_en": "wasteful/costly",
+    "meaning_hi": "फिजूलखर्च",
+    "synonyms": [
+      "lavish",
+      "excessive"
+    ],
+    "antonyms": [
+      "economical"
+    ],
+    "example": "extravagant spending on credit cards can hurt one's credit score.",
+    "banking_usage": "extravagant spending on credit cards can hurt one's credit score.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Hard",
+    "exam_relevance": [
+      "SBI PO",
+      "SBI Clerk",
+      "RBI Grade B",
+      "SSC CGL"
+    ],
+    "pronunciation_hint": "extravagant"
+  },
+  {
+    "id": 60,
+    "word": "Feasible",
+    "meaning_en": "practical/possible",
+    "meaning_hi": "व्यवहार्य",
+    "synonyms": [
+      "workable",
+      "possible"
+    ],
+    "antonyms": [
+      "impossible"
+    ],
+    "example": "The restructuring plan was deemed feasible by the loan committee.",
+    "banking_usage": "The restructuring plan was deemed feasible by the loan committee.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "SBI Clerk",
+      "RBI Grade B"
+    ],
+    "pronunciation_hint": "feasible"
+  },
+  {
+    "id": 61,
+    "word": "Fidelity",
+    "meaning_en": "loyalty",
+    "meaning_hi": "वफादारी",
+    "synonyms": [
+      "faithfulness",
+      "devotion"
+    ],
+    "antonyms": [
+      "betrayal"
+    ],
+    "example": "Customer fidelity to a bank often depends on service quality.",
+    "banking_usage": "Customer fidelity to a bank often depends on service quality.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "RBI Grade B",
+      "SSC CGL",
+      "IBPS PO"
+    ],
+    "pronunciation_hint": "fidelity"
+  },
+  {
+    "id": 62,
+    "word": "Fluctuate",
+    "meaning_en": "change often",
+    "meaning_hi": "बदलते रहना",
+    "synonyms": [
+      "vary",
+      "swing"
+    ],
+    "antonyms": [
+      "remain steady"
+    ],
+    "example": "Interest rates fluctuate based on RBI's repo rate decisions.",
+    "banking_usage": "Interest rates fluctuate based on RBI's repo rate decisions.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "SSC CGL",
+      "IBPS PO",
+      "IBPS Clerk",
+      "IBPS SO"
+    ],
+    "pronunciation_hint": "fluctuate"
+  },
+  {
+    "id": 63,
+    "word": "Frivolous",
+    "meaning_en": "silly/unimportant",
+    "meaning_hi": "तुच्छ",
+    "synonyms": [
+      "trivial",
+      "foolish"
+    ],
+    "antonyms": [
+      "serious"
+    ],
+    "example": "The committee rejected the frivolous complaint against the cashier.",
+    "banking_usage": "The committee rejected the frivolous complaint against the cashier.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "IBPS PO",
+      "IBPS Clerk"
+    ],
+    "pronunciation_hint": "frivolous"
+  },
+  {
+    "id": 64,
+    "word": "Frugal",
+    "meaning_en": "economical",
+    "meaning_hi": "मेहनती-बचतकर्ता",
+    "synonyms": [
+      "thrifty",
+      "saving"
+    ],
+    "antonyms": [
+      "wasteful"
+    ],
+    "example": "frugal spending habits help customers maintain a good savings ratio.",
+    "banking_usage": "frugal spending habits help customers maintain a good savings ratio.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "IBPS Clerk",
+      "IBPS SO",
+      "SBI PO"
+    ],
+    "pronunciation_hint": "frugal"
+  },
+  {
+    "id": 65,
+    "word": "Futile",
+    "meaning_en": "useless",
+    "meaning_hi": "बेकार/निष्फल",
+    "synonyms": [
+      "pointless",
+      "vain"
+    ],
+    "antonyms": [
+      "useful"
+    ],
+    "example": "Recovery efforts proved futile once the borrower declared insolvency.",
+    "banking_usage": "Recovery efforts proved futile once the borrower declared insolvency.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "IBPS SO",
+      "SBI PO",
+      "SBI Clerk",
+      "RBI Grade B"
+    ],
+    "pronunciation_hint": "futile"
+  },
+  {
+    "id": 66,
+    "word": "Garner",
+    "meaning_en": "collect/gather",
+    "meaning_hi": "इकट्ठा करना",
+    "synonyms": [
+      "accumulate",
+      "obtain"
+    ],
+    "antonyms": [
+      "scatter"
+    ],
+    "example": "The bank aims to garner more deposits through attractive FD rates.",
+    "banking_usage": "The bank aims to garner more deposits through attractive FD rates.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "SBI PO",
+      "SBI Clerk"
+    ],
+    "pronunciation_hint": "garner"
+  },
+  {
+    "id": 67,
+    "word": "Gregarious",
+    "meaning_en": "sociable",
+    "meaning_hi": "मिलनसार",
+    "synonyms": [
+      "friendly",
+      "outgoing"
+    ],
+    "antonyms": [
+      "reserved"
+    ],
+    "example": "The gregarious branch manager built strong relationships with local businesses.",
+    "banking_usage": "The gregarious branch manager built strong relationships with local businesses.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Hard",
+    "exam_relevance": [
+      "SBI Clerk",
+      "RBI Grade B",
+      "SSC CGL"
+    ],
+    "pronunciation_hint": "gregarious"
+  },
+  {
+    "id": 68,
+    "word": "Grim",
+    "meaning_en": "serious/harsh",
+    "meaning_hi": "कठोर/गंभीर",
+    "synonyms": [
+      "severe",
+      "gloomy"
+    ],
+    "antonyms": [
+      "cheerful"
+    ],
+    "example": "The quarterly results painted a grim picture of rising bad loans.",
+    "banking_usage": "The quarterly results painted a grim picture of rising bad loans.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "RBI Grade B",
+      "SSC CGL",
+      "IBPS PO",
+      "IBPS Clerk"
+    ],
+    "pronunciation_hint": "grim"
+  },
+  {
+    "id": 69,
+    "word": "Guile",
+    "meaning_en": "clever deceit",
+    "meaning_hi": "चालाकी/छल",
+    "synonyms": [
+      "cunning",
+      "trickery"
+    ],
+    "antonyms": [
+      "honesty"
+    ],
+    "example": "The fraudster used guile to bypass the bank's verification system.",
+    "banking_usage": "The fraudster used guile to bypass the bank's verification system.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "SSC CGL",
+      "IBPS PO"
+    ],
+    "pronunciation_hint": "guile"
+  },
+  {
+    "id": 70,
+    "word": "Hamper",
+    "meaning_en": "obstruct",
+    "meaning_hi": "बाधा डालना",
+    "synonyms": [
+      "hinder",
+      "block"
+    ],
+    "antonyms": [
+      "help"
+    ],
+    "example": "Poor internet connectivity can hamper rural digital banking adoption.",
+    "banking_usage": "Poor internet connectivity can hamper rural digital banking adoption.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "IBPS PO",
+      "IBPS Clerk",
+      "IBPS SO"
+    ],
+    "pronunciation_hint": "hamper"
+  },
+  {
+    "id": 71,
+    "word": "Haphazard",
+    "meaning_en": "random/careless",
+    "meaning_hi": "अव्यवस्थित",
+    "synonyms": [
+      "unplanned",
+      "chaotic"
+    ],
+    "antonyms": [
+      "organized"
+    ],
+    "example": "haphazard record-keeping led to discrepancies in the ledger.",
+    "banking_usage": "haphazard record-keeping led to discrepancies in the ledger.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "IBPS Clerk",
+      "IBPS SO",
+      "SBI PO",
+      "SBI Clerk"
+    ],
+    "pronunciation_hint": "haphazard"
+  },
+  {
+    "id": 72,
+    "word": "Hostile",
+    "meaning_en": "unfriendly/aggressive",
+    "meaning_hi": "शत्रुतापूर्ण",
+    "synonyms": [
+      "enemy-like",
+      "opposed"
+    ],
+    "antonyms": [
+      "friendly"
+    ],
+    "example": "The merger faced a hostile reaction from minority shareholders.",
+    "banking_usage": "The merger faced a hostile reaction from minority shareholders.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "IBPS SO",
+      "SBI PO"
+    ],
+    "pronunciation_hint": "hostile"
+  },
+  {
+    "id": 73,
+    "word": "Hypocrisy",
+    "meaning_en": "false goodness",
+    "meaning_hi": "पाखंड",
+    "synonyms": [
+      "pretence",
+      "deception"
+    ],
+    "antonyms": [
+      "sincerity"
+    ],
+    "example": "Critics pointed out the hypocrisy in promoting savings while charging high fees.",
+    "banking_usage": "Critics pointed out the hypocrisy in promoting savings while charging high fees.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "SBI PO",
+      "SBI Clerk",
+      "RBI Grade B"
+    ],
+    "pronunciation_hint": "hypocrisy"
+  },
+  {
+    "id": 74,
+    "word": "Hypothesis",
+    "meaning_en": "assumption",
+    "meaning_hi": "परिकल्पना",
+    "synonyms": [
+      "theory",
+      "supposition"
+    ],
+    "antonyms": [
+      "fact"
+    ],
+    "example": "The risk team tested its hypothesis on default probability using past data.",
+    "banking_usage": "The risk team tested its hypothesis on default probability using past data.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Hard",
+    "exam_relevance": [
+      "SBI Clerk",
+      "RBI Grade B",
+      "SSC CGL",
+      "IBPS PO"
+    ],
+    "pronunciation_hint": "hypothesis"
+  },
+  {
+    "id": 75,
+    "word": "Illuminate",
+    "meaning_en": "explain/light up",
+    "meaning_hi": "स्पष्ट करना/प्रकाशित करना",
+    "synonyms": [
+      "clarify",
+      "brighten"
+    ],
+    "antonyms": [
+      "confuse"
+    ],
+    "example": "The annual report helped illuminate the bank's exposure to stressed assets.",
+    "banking_usage": "The annual report helped illuminate the bank's exposure to stressed assets.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Hard",
+    "exam_relevance": [
+      "RBI Grade B",
+      "SSC CGL"
+    ],
+    "pronunciation_hint": "illuminate"
+  },
+  {
+    "id": 76,
+    "word": "Imminent",
+    "meaning_en": "about to happen",
+    "meaning_hi": "निकट भविष्य में होने वाला",
+    "synonyms": [
+      "near",
+      "approaching"
+    ],
+    "antonyms": [
+      "distant"
+    ],
+    "example": "Analysts warned of an imminent rate hike by the central bank.",
+    "banking_usage": "Analysts warned of an imminent rate hike by the central bank.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "SSC CGL",
+      "IBPS PO",
+      "IBPS Clerk"
+    ],
+    "pronunciation_hint": "imminent"
+  },
+  {
+    "id": 77,
+    "word": "Impartial",
+    "meaning_en": "unbiased/fair",
+    "meaning_hi": "निष्पक्ष",
+    "synonyms": [
+      "neutral",
+      "just"
+    ],
+    "antonyms": [
+      "biased"
+    ],
+    "example": "The ombudsman gave an impartial ruling on the customer's complaint.",
+    "banking_usage": "The ombudsman gave an impartial ruling on the customer's complaint.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "IBPS PO",
+      "IBPS Clerk",
+      "IBPS SO",
+      "SBI PO"
+    ],
+    "pronunciation_hint": "impartial"
+  },
+  {
+    "id": 78,
+    "word": "Impediment",
+    "meaning_en": "obstacle",
+    "meaning_hi": "बाधा",
+    "synonyms": [
+      "hurdle",
+      "barrier"
+    ],
+    "antonyms": [
+      "help"
+    ],
+    "example": "Lack of collateral is a major impediment to getting unsecured loans.",
+    "banking_usage": "Lack of collateral is a major impediment to getting unsecured loans.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Hard",
+    "exam_relevance": [
+      "IBPS Clerk",
+      "IBPS SO"
+    ],
+    "pronunciation_hint": "impediment"
+  },
+  {
+    "id": 79,
+    "word": "Implore",
+    "meaning_en": "beg/request strongly",
+    "meaning_hi": "विनती करना",
+    "synonyms": [
+      "plead",
+      "beseech"
+    ],
+    "antonyms": [
+      "command"
+    ],
+    "example": "The borrower had to implore the bank for a restructuring of dues.",
+    "banking_usage": "The borrower had to implore the bank for a restructuring of dues.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "IBPS SO",
+      "SBI PO",
+      "SBI Clerk"
+    ],
+    "pronunciation_hint": "implore"
+  },
+  {
+    "id": 80,
+    "word": "Incessant",
+    "meaning_en": "continuous",
+    "meaning_hi": "निरंतर",
+    "synonyms": [
+      "constant",
+      "nonstop"
+    ],
+    "antonyms": [
+      "occasional"
+    ],
+    "example": "incessant phone calls from recovery agents led to a regulatory complaint.",
+    "banking_usage": "incessant phone calls from recovery agents led to a regulatory complaint.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "SBI PO",
+      "SBI Clerk",
+      "RBI Grade B",
+      "SSC CGL"
+    ],
+    "pronunciation_hint": "incessant"
+  },
+  {
+    "id": 81,
+    "word": "Incisive",
+    "meaning_en": "sharp/clear",
+    "meaning_hi": "तीक्ष्ण/स्पष्ट",
+    "synonyms": [
+      "keen",
+      "penetrating"
+    ],
+    "antonyms": [
+      "vague"
+    ],
+    "example": "The auditor's incisive questions exposed gaps in the loan file.",
+    "banking_usage": "The auditor's incisive questions exposed gaps in the loan file.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "SBI Clerk",
+      "RBI Grade B"
+    ],
+    "pronunciation_hint": "incisive"
+  },
+  {
+    "id": 82,
+    "word": "Incompetent",
+    "meaning_en": "not skilled",
+    "meaning_hi": "अयोग्य",
+    "synonyms": [
+      "incapable",
+      "unfit"
+    ],
+    "antonyms": [
+      "competent"
+    ],
+    "example": "The branch was flagged for incompetent handling of customer grievances.",
+    "banking_usage": "The branch was flagged for incompetent handling of customer grievances.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Hard",
+    "exam_relevance": [
+      "RBI Grade B",
+      "SSC CGL",
+      "IBPS PO"
+    ],
+    "pronunciation_hint": "incompetent"
+  },
+  {
+    "id": 83,
+    "word": "Indolent",
+    "meaning_en": "lazy",
+    "meaning_hi": "आलसी",
+    "synonyms": [
+      "idle",
+      "inactive"
+    ],
+    "antonyms": [
+      "hardworking"
+    ],
+    "example": "An indolent approach to follow-ups increased the bank's NPA list.",
+    "banking_usage": "An indolent approach to follow-ups increased the bank's NPA list.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "SSC CGL",
+      "IBPS PO",
+      "IBPS Clerk",
+      "IBPS SO"
+    ],
+    "pronunciation_hint": "indolent"
+  },
+  {
+    "id": 84,
+    "word": "Induce",
+    "meaning_en": "persuade/cause",
+    "meaning_hi": "प्रेरित करना",
+    "synonyms": [
+      "prompt",
+      "influence"
+    ],
+    "antonyms": [
+      "prevent"
+    ],
+    "example": "Attractive interest rates induce customers to open fixed deposits.",
+    "banking_usage": "Attractive interest rates induce customers to open fixed deposits.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "IBPS PO",
+      "IBPS Clerk"
+    ],
+    "pronunciation_hint": "induce"
+  },
+  {
+    "id": 85,
+    "word": "Inevitable",
+    "meaning_en": "certain to happen",
+    "meaning_hi": "अवश्यंभावी",
+    "synonyms": [
+      "unavoidable",
+      "sure"
+    ],
+    "antonyms": [
+      "avoidable"
+    ],
+    "example": "A rate cut seemed inevitable given the slowing inflation.",
+    "banking_usage": "A rate cut seemed inevitable given the slowing inflation.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Hard",
+    "exam_relevance": [
+      "IBPS Clerk",
+      "IBPS SO",
+      "SBI PO"
+    ],
+    "pronunciation_hint": "inevitable"
+  },
+  {
+    "id": 86,
+    "word": "Infer",
+    "meaning_en": "conclude",
+    "meaning_hi": "निष्कर्ष निकालना",
+    "synonyms": [
+      "deduce",
+      "understand"
+    ],
+    "antonyms": [
+      "misunderstand"
+    ],
+    "example": "Analysts infer a slowdown in credit growth from the latest data.",
+    "banking_usage": "Analysts infer a slowdown in credit growth from the latest data.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "IBPS SO",
+      "SBI PO",
+      "SBI Clerk",
+      "RBI Grade B"
+    ],
+    "pronunciation_hint": "infer"
+  },
+  {
+    "id": 87,
+    "word": "Influx",
+    "meaning_en": "arrival in large number",
+    "meaning_hi": "बड़ी संख्या में आना",
+    "synonyms": [
+      "inflow",
+      "arrival"
+    ],
+    "antonyms": [
+      "outflow"
+    ],
+    "example": "The bank saw an influx of NRI deposits after the new scheme launch.",
+    "banking_usage": "The bank saw an influx of NRI deposits after the new scheme launch.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "SBI PO",
+      "SBI Clerk"
+    ],
+    "pronunciation_hint": "influx"
+  },
+  {
+    "id": 88,
+    "word": "Inhibit",
+    "meaning_en": "hold back",
+    "meaning_hi": "रोकना",
+    "synonyms": [
+      "restrain",
+      "prevent"
+    ],
+    "antonyms": [
+      "encourage"
+    ],
+    "example": "High collateral requirements inhibit small businesses from accessing credit.",
+    "banking_usage": "High collateral requirements inhibit small businesses from accessing credit.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "SBI Clerk",
+      "RBI Grade B",
+      "SSC CGL"
+    ],
+    "pronunciation_hint": "inhibit"
+  },
+  {
+    "id": 89,
+    "word": "Innate",
+    "meaning_en": "natural/inborn",
+    "meaning_hi": "जन्मजात",
+    "synonyms": [
+      "inherent",
+      "native"
+    ],
+    "antonyms": [
+      "acquired"
+    ],
+    "example": "The relationship manager had an innate ability to read customer needs.",
+    "banking_usage": "The relationship manager had an innate ability to read customer needs.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "RBI Grade B",
+      "SSC CGL",
+      "IBPS PO",
+      "IBPS Clerk"
+    ],
+    "pronunciation_hint": "innate"
+  },
+  {
+    "id": 90,
+    "word": "Innovative",
+    "meaning_en": "creative/new",
+    "meaning_hi": "नवोन्मेषी",
+    "synonyms": [
+      "original",
+      "inventive"
+    ],
+    "antonyms": [
+      "conventional"
+    ],
+    "example": "The bank rolled out an innovative app feature for instant loans.",
+    "banking_usage": "The bank rolled out an innovative app feature for instant loans.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Hard",
+    "exam_relevance": [
+      "SSC CGL",
+      "IBPS PO"
+    ],
+    "pronunciation_hint": "innovative"
+  },
+  {
+    "id": 91,
+    "word": "Insolent",
+    "meaning_en": "rude",
+    "meaning_hi": "अशिष्ट",
+    "synonyms": [
+      "disrespectful",
+      "impudent"
+    ],
+    "antonyms": [
+      "polite"
+    ],
+    "example": "The customer's insolent behaviour towards staff was reported to the manager.",
+    "banking_usage": "The customer's insolent behaviour towards staff was reported to the manager.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "IBPS PO",
+      "IBPS Clerk",
+      "IBPS SO"
+    ],
+    "pronunciation_hint": "insolent"
+  },
+  {
+    "id": 92,
+    "word": "Intact",
+    "meaning_en": "complete/undamaged",
+    "meaning_hi": "अक्षुण्ण/पूर्ण",
+    "synonyms": [
+      "whole",
+      "safe"
+    ],
+    "antonyms": [
+      "damaged"
+    ],
+    "example": "The customer's deposit remained intact despite the merger.",
+    "banking_usage": "The customer's deposit remained intact despite the merger.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "IBPS Clerk",
+      "IBPS SO",
+      "SBI PO",
+      "SBI Clerk"
+    ],
+    "pronunciation_hint": "intact"
+  },
+  {
+    "id": 93,
+    "word": "Integrity",
+    "meaning_en": "honesty",
+    "meaning_hi": "ईमानदारी",
+    "synonyms": [
+      "morality",
+      "uprightness"
+    ],
+    "antonyms": [
+      "dishonesty"
+    ],
+    "example": "Maintaining data integrity is critical for core banking systems.",
+    "banking_usage": "Maintaining data integrity is critical for core banking systems.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "IBPS SO",
+      "SBI PO"
+    ],
+    "pronunciation_hint": "integrity"
+  },
+  {
+    "id": 94,
+    "word": "Intricate",
+    "meaning_en": "complicated",
+    "meaning_hi": "जटिल",
+    "synonyms": [
+      "complex",
+      "detailed"
+    ],
+    "antonyms": [
+      "simple"
+    ],
+    "example": "The loan agreement contained intricate clauses on prepayment penalties.",
+    "banking_usage": "The loan agreement contained intricate clauses on prepayment penalties.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "SBI PO",
+      "SBI Clerk",
+      "RBI Grade B"
+    ],
+    "pronunciation_hint": "intricate"
+  },
+  {
+    "id": 95,
+    "word": "Stipulation",
+    "meaning_en": "condition/rule",
+    "meaning_hi": "शर्त/नियम",
+    "synonyms": [
+      "requirement",
+      "term"
+    ],
+    "antonyms": [
+      "disagreement"
+    ],
+    "example": "The loan agreement carries a stipulation on minimum balance maintenance.",
+    "banking_usage": "The loan agreement carries a stipulation on minimum balance maintenance.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Hard",
+    "exam_relevance": [
+      "SBI Clerk",
+      "RBI Grade B",
+      "SSC CGL",
+      "IBPS PO"
+    ],
+    "pronunciation_hint": "stipulation"
+  },
+  {
+    "id": 96,
+    "word": "Surge",
+    "meaning_en": "sudden rise",
+    "meaning_hi": "उछाल",
+    "synonyms": [
+      "rise",
+      "rush"
+    ],
+    "antonyms": [
+      "decline"
+    ],
+    "example": "There was a surge in digital payments during the festive season.",
+    "banking_usage": "There was a surge in digital payments during the festive season.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "RBI Grade B",
+      "SSC CGL"
+    ],
+    "pronunciation_hint": "surge"
+  },
+  {
+    "id": 97,
+    "word": "Incumbent",
+    "meaning_en": "necessary/duty-bound",
+    "meaning_hi": "अनिवार्य/कर्तव्यबद्ध",
+    "synonyms": [
+      "mandatory",
+      "obligatory"
+    ],
+    "antonyms": [
+      "optional"
+    ],
+    "example": "It is incumbent upon every bank to follow RBI's KYC norms.",
+    "banking_usage": "It is incumbent upon every bank to follow RBI's KYC norms.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "SSC CGL",
+      "IBPS PO",
+      "IBPS Clerk"
+    ],
+    "pronunciation_hint": "incumbent"
+  },
+  {
+    "id": 98,
+    "word": "Precautionary",
+    "meaning_en": "preventive",
+    "meaning_hi": "सावधानी संबंधी",
+    "synonyms": [
+      "protective",
+      "careful"
+    ],
+    "antonyms": [
+      "careless"
+    ],
+    "example": "The bank built a precautionary reserve against potential loan defaults.",
+    "banking_usage": "The bank built a precautionary reserve against potential loan defaults.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Hard",
+    "exam_relevance": [
+      "IBPS PO",
+      "IBPS Clerk",
+      "IBPS SO",
+      "SBI PO"
+    ],
+    "pronunciation_hint": "precautionary"
+  },
+  {
+    "id": 99,
+    "word": "Outcry",
+    "meaning_en": "public protest/shout",
+    "meaning_hi": "सार्वजनिक विरोध",
+    "synonyms": [
+      "uproar",
+      "protest"
+    ],
+    "antonyms": [
+      "silence"
+    ],
+    "example": "There was a public outcry over the sudden hike in service charges.",
+    "banking_usage": "There was a public outcry over the sudden hike in service charges.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "IBPS Clerk",
+      "IBPS SO"
+    ],
+    "pronunciation_hint": "outcry"
+  },
+  {
+    "id": 100,
+    "word": "Putative",
+    "meaning_en": "supposed/reputed",
+    "meaning_hi": "माना गया",
+    "synonyms": [
+      "assumed",
+      "alleged"
+    ],
+    "antonyms": [
+      "real"
+    ],
+    "example": "The putative beneficiary of the fraudulent transfer could not be traced.",
+    "banking_usage": "The putative beneficiary of the fraudulent transfer could not be traced.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "IBPS SO",
+      "SBI PO",
+      "SBI Clerk"
+    ],
+    "pronunciation_hint": "putative"
+  },
+  {
+    "id": 101,
+    "word": "Sedition",
+    "meaning_en": "rebellion against authority",
+    "meaning_hi": "राजद्रोह",
+    "synonyms": [
+      "revolt",
+      "incitement"
+    ],
+    "antonyms": [
+      "loyalty"
+    ],
+    "example": "The case had nothing to do with sedition, but with simple loan fraud.",
+    "banking_usage": "The case had nothing to do with sedition, but with simple loan fraud.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "SBI PO",
+      "SBI Clerk",
+      "RBI Grade B",
+      "SSC CGL"
+    ],
+    "pronunciation_hint": "sedition"
+  },
+  {
+    "id": 102,
+    "word": "Wrath",
+    "meaning_en": "extreme anger",
+    "meaning_hi": "क्रोध",
+    "synonyms": [
+      "rage",
+      "fury"
+    ],
+    "antonyms": [
+      "calmness"
+    ],
+    "example": "The branch manager faced the customer's wrath over the delayed refund.",
+    "banking_usage": "The branch manager faced the customer's wrath over the delayed refund.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "SBI Clerk",
+      "RBI Grade B"
+    ],
+    "pronunciation_hint": "wrath"
+  },
+  {
+    "id": 103,
+    "word": "Endeavour",
+    "meaning_en": "try hard",
+    "meaning_hi": "प्रयास करना",
+    "synonyms": [
+      "attempt",
+      "strive"
+    ],
+    "antonyms": [
+      "quit"
+    ],
+    "example": "The bank will endeavour to resolve the complaint within 7 working days.",
+    "banking_usage": "The bank will endeavour to resolve the complaint within 7 working days.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "RBI Grade B",
+      "SSC CGL",
+      "IBPS PO"
+    ],
+    "pronunciation_hint": "endeavour"
+  },
+  {
+    "id": 104,
+    "word": "Detain",
+    "meaning_en": "hold back",
+    "meaning_hi": "रोकना/हिरासत में लेना",
+    "synonyms": [
+      "stop",
+      "restrain"
+    ],
+    "antonyms": [
+      "release"
+    ],
+    "example": "Authorities can detain suspects in large-scale banking fraud cases.",
+    "banking_usage": "Authorities can detain suspects in large-scale banking fraud cases.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "SSC CGL",
+      "IBPS PO",
+      "IBPS Clerk",
+      "IBPS SO"
+    ],
+    "pronunciation_hint": "detain"
+  },
+  {
+    "id": 105,
+    "word": "Potent",
+    "meaning_en": "powerful",
+    "meaning_hi": "शक्तिशाली",
+    "synonyms": [
+      "strong",
+      "effective"
+    ],
+    "antonyms": [
+      "weak"
+    ],
+    "example": "A potent combination of digital tools boosted loan disbursal speed.",
+    "banking_usage": "A potent combination of digital tools boosted loan disbursal speed.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "IBPS PO",
+      "IBPS Clerk"
+    ],
+    "pronunciation_hint": "potent"
+  },
+  {
+    "id": 106,
+    "word": "Legitimacy",
+    "meaning_en": "lawfulness",
+    "meaning_hi": "वैधता",
+    "synonyms": [
+      "legality",
+      "validity"
+    ],
+    "antonyms": [
+      "illegality"
+    ],
+    "example": "KYC verification establishes the legitimacy of a new account holder.",
+    "banking_usage": "KYC verification establishes the legitimacy of a new account holder.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Hard",
+    "exam_relevance": [
+      "IBPS Clerk",
+      "IBPS SO",
+      "SBI PO"
+    ],
+    "pronunciation_hint": "legitimacy"
+  },
+  {
+    "id": 107,
+    "word": "Adjudication",
+    "meaning_en": "formal judgement",
+    "meaning_hi": "न्यायिक निर्णय",
+    "synonyms": [
+      "decision",
+      "ruling"
+    ],
+    "antonyms": [
+      "deadlock"
+    ],
+    "example": "The ombudsman's adjudication favoured the customer in the disputed charge case.",
+    "banking_usage": "The ombudsman's adjudication favoured the customer in the disputed charge case.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Hard",
+    "exam_relevance": [
+      "IBPS SO",
+      "SBI PO",
+      "SBI Clerk",
+      "RBI Grade B"
+    ],
+    "pronunciation_hint": "adjudication"
+  },
+  {
+    "id": 108,
+    "word": "Gratuitous",
+    "meaning_en": "unnecessary/unjustified",
+    "meaning_hi": "अनावश्यक",
+    "synonyms": [
+      "needless",
+      "unwarranted"
+    ],
+    "antonyms": [
+      "necessary"
+    ],
+    "example": "The bank waived the gratuitous penalty imposed by mistake.",
+    "banking_usage": "The bank waived the gratuitous penalty imposed by mistake.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Hard",
+    "exam_relevance": [
+      "SBI PO",
+      "SBI Clerk"
+    ],
+    "pronunciation_hint": "gratuitous"
+  },
+  {
+    "id": 109,
+    "word": "Certitude",
+    "meaning_en": "complete certainty",
+    "meaning_hi": "पूर्ण निश्चितता",
+    "synonyms": [
+      "confidence",
+      "conviction"
+    ],
+    "antonyms": [
+      "doubt"
+    ],
+    "example": "The CFO spoke with certitude about the bank's capital adequacy.",
+    "banking_usage": "The CFO spoke with certitude about the bank's capital adequacy.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "SBI Clerk",
+      "RBI Grade B",
+      "SSC CGL"
+    ],
+    "pronunciation_hint": "certitude"
+  },
+  {
+    "id": 110,
+    "word": "Dissent",
+    "meaning_en": "disagreement",
+    "meaning_hi": "असहमति",
+    "synonyms": [
+      "objection",
+      "protest"
+    ],
+    "antonyms": [
+      "agreement"
+    ],
+    "example": "Two board members expressed dissent over the proposed merger.",
+    "banking_usage": "Two board members expressed dissent over the proposed merger.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "RBI Grade B",
+      "SSC CGL",
+      "IBPS PO",
+      "IBPS Clerk"
+    ],
+    "pronunciation_hint": "dissent"
+  },
+  {
+    "id": 111,
+    "word": "Escalation",
+    "meaning_en": "rapid increase",
+    "meaning_hi": "तेज़ी से वृद्धि",
+    "synonyms": [
+      "rise",
+      "hike"
+    ],
+    "antonyms": [
+      "reduction"
+    ],
+    "example": "The complaint required escalation to the regional grievance officer.",
+    "banking_usage": "The complaint required escalation to the regional grievance officer.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Hard",
+    "exam_relevance": [
+      "SSC CGL",
+      "IBPS PO"
+    ],
+    "pronunciation_hint": "escalation"
+  },
+  {
+    "id": 112,
+    "word": "Tussle",
+    "meaning_en": "struggle/fight",
+    "meaning_hi": "संघर्ष",
+    "synonyms": [
+      "conflict",
+      "scuffle"
+    ],
+    "antonyms": [
+      "truce"
+    ],
+    "example": "A legal tussle arose over the disputed property used as collateral.",
+    "banking_usage": "A legal tussle arose over the disputed property used as collateral.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "IBPS PO",
+      "IBPS Clerk",
+      "IBPS SO"
+    ],
+    "pronunciation_hint": "tussle"
+  },
+  {
+    "id": 113,
+    "word": "Propriety",
+    "meaning_en": "proper behaviour",
+    "meaning_hi": "औचित्य/शिष्टता",
+    "synonyms": [
+      "decency",
+      "decorum"
+    ],
+    "antonyms": [
+      "indecency"
+    ],
+    "example": "Bank officials must maintain propriety while handling customer funds.",
+    "banking_usage": "Bank officials must maintain propriety while handling customer funds.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "IBPS Clerk",
+      "IBPS SO",
+      "SBI PO",
+      "SBI Clerk"
+    ],
+    "pronunciation_hint": "propriety"
+  },
+  {
+    "id": 114,
+    "word": "Defamatory",
+    "meaning_en": "damaging reputation",
+    "meaning_hi": "मानहानिकारक",
+    "synonyms": [
+      "slanderous",
+      "insulting"
+    ],
+    "antonyms": [
+      "complimentary"
+    ],
+    "example": "The bank sued the ex-employee for making defamatory remarks online.",
+    "banking_usage": "The bank sued the ex-employee for making defamatory remarks online.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Hard",
+    "exam_relevance": [
+      "IBPS SO",
+      "SBI PO"
+    ],
+    "pronunciation_hint": "defamatory"
+  },
+  {
+    "id": 115,
+    "word": "Perpetrator",
+    "meaning_en": "wrongdoer/criminal",
+    "meaning_hi": "अपराधी",
+    "synonyms": [
+      "offender",
+      "culprit"
+    ],
+    "antonyms": [
+      "victim"
+    ],
+    "example": "The perpetrator of the phishing scam was traced through IP logs.",
+    "banking_usage": "The perpetrator of the phishing scam was traced through IP logs.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Hard",
+    "exam_relevance": [
+      "SBI PO",
+      "SBI Clerk",
+      "RBI Grade B"
+    ],
+    "pronunciation_hint": "perpetrator"
+  },
+  {
+    "id": 116,
+    "word": "Abet",
+    "meaning_en": "assist wrongdoing",
+    "meaning_hi": "दुष्कर्म में सहायता करना",
+    "synonyms": [
+      "support",
+      "encourage"
+    ],
+    "antonyms": [
+      "prevent"
+    ],
+    "example": "The employee was suspended for allegedly helping to abet the fraud.",
+    "banking_usage": "The employee was suspended for allegedly helping to abet the fraud.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "SBI Clerk",
+      "RBI Grade B",
+      "SSC CGL",
+      "IBPS PO"
+    ],
+    "pronunciation_hint": "abet"
+  },
+  {
+    "id": 117,
+    "word": "Disgruntled",
+    "meaning_en": "dissatisfied/angry",
+    "meaning_hi": "असंतुष्ट",
+    "synonyms": [
+      "annoyed",
+      "unhappy"
+    ],
+    "antonyms": [
+      "pleased"
+    ],
+    "example": "A disgruntled customer filed a complaint about hidden charges.",
+    "banking_usage": "A disgruntled customer filed a complaint about hidden charges.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Hard",
+    "exam_relevance": [
+      "RBI Grade B",
+      "SSC CGL"
+    ],
+    "pronunciation_hint": "disgruntled"
+  },
+  {
+    "id": 118,
+    "word": "Revamp",
+    "meaning_en": "improve/renovate",
+    "meaning_hi": "सुधार करना",
+    "synonyms": [
+      "rebuild",
+      "reform"
+    ],
+    "antonyms": [
+      "damage"
+    ],
+    "example": "The bank plans to revamp its mobile app for a better user experience.",
+    "banking_usage": "The bank plans to revamp its mobile app for a better user experience.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "SSC CGL",
+      "IBPS PO",
+      "IBPS Clerk"
+    ],
+    "pronunciation_hint": "revamp"
+  },
+  {
+    "id": 119,
+    "word": "Dispel",
+    "meaning_en": "remove a doubt/belief",
+    "meaning_hi": "दूर करना",
+    "synonyms": [
+      "dismiss",
+      "remove"
+    ],
+    "antonyms": [
+      "create"
+    ],
+    "example": "The press release aimed to dispel rumours about the bank's solvency.",
+    "banking_usage": "The press release aimed to dispel rumours about the bank's solvency.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "IBPS PO",
+      "IBPS Clerk",
+      "IBPS SO",
+      "SBI PO"
+    ],
+    "pronunciation_hint": "dispel"
+  },
+  {
+    "id": 120,
+    "word": "Hubris",
+    "meaning_en": "excessive pride",
+    "meaning_hi": "अति-अहंकार",
+    "synonyms": [
+      "arrogance",
+      "conceit"
+    ],
+    "antonyms": [
+      "humility"
+    ],
+    "example": "Analysts blamed the bank's collapse on management hubris.",
+    "banking_usage": "Analysts blamed the bank's collapse on management hubris.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "IBPS Clerk",
+      "IBPS SO"
+    ],
+    "pronunciation_hint": "hubris"
+  },
+  {
+    "id": 121,
+    "word": "Deprivation",
+    "meaning_en": "lack/denial",
+    "meaning_hi": "वंचना/अभाव",
+    "synonyms": [
+      "scarcity",
+      "deficiency"
+    ],
+    "antonyms": [
+      "abundance"
+    ],
+    "example": "Financial deprivation in rural areas is being addressed through microfinance.",
+    "banking_usage": "Financial deprivation in rural areas is being addressed through microfinance.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Hard",
+    "exam_relevance": [
+      "IBPS SO",
+      "SBI PO",
+      "SBI Clerk"
+    ],
+    "pronunciation_hint": "deprivation"
+  },
+  {
+    "id": 122,
+    "word": "Epitomize",
+    "meaning_en": "be perfect example",
+    "meaning_hi": "आदर्श उदाहरण होना",
+    "synonyms": [
+      "represent",
+      "exemplify"
+    ],
+    "antonyms": [
+      "misrepresent"
+    ],
+    "example": "The branch's quick service came to epitomize customer-first banking.",
+    "banking_usage": "The branch's quick service came to epitomize customer-first banking.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "SBI PO",
+      "SBI Clerk",
+      "RBI Grade B",
+      "SSC CGL"
+    ],
+    "pronunciation_hint": "epitomize"
+  },
+  {
+    "id": 123,
+    "word": "Agony",
+    "meaning_en": "extreme suffering",
+    "meaning_hi": "असीम पीड़ा",
+    "synonyms": [
+      "pain",
+      "misery"
+    ],
+    "antonyms": [
+      "comfort"
+    ],
+    "example": "Customers expressed agony over the prolonged loan approval delay.",
+    "banking_usage": "Customers expressed agony over the prolonged loan approval delay.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "SBI Clerk",
+      "RBI Grade B"
+    ],
+    "pronunciation_hint": "agony"
+  },
+  {
+    "id": 124,
+    "word": "Detriment",
+    "meaning_en": "harm/damage",
+    "meaning_hi": "हानि",
+    "synonyms": [
+      "loss",
+      "injury"
+    ],
+    "antonyms": [
+      "benefit"
+    ],
+    "example": "Ignoring red flags can be to the detriment of the bank's reputation.",
+    "banking_usage": "Ignoring red flags can be to the detriment of the bank's reputation.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "RBI Grade B",
+      "SSC CGL",
+      "IBPS PO"
+    ],
+    "pronunciation_hint": "detriment"
+  },
+  {
+    "id": 125,
+    "word": "Repugnant",
+    "meaning_en": "disgusting/unacceptable",
+    "meaning_hi": "घृणित",
+    "synonyms": [
+      "offensive",
+      "hateful"
+    ],
+    "antonyms": [
+      "pleasant"
+    ],
+    "example": "Regulators found the predatory lending practice repugnant.",
+    "banking_usage": "Regulators found the predatory lending practice repugnant.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "SSC CGL",
+      "IBPS PO",
+      "IBPS Clerk",
+      "IBPS SO"
+    ],
+    "pronunciation_hint": "repugnant"
+  },
+  {
+    "id": 126,
+    "word": "Cavalier",
+    "meaning_en": "careless/disrespectful",
+    "meaning_hi": "लापरवाह/अनादरपूर्ण",
+    "synonyms": [
+      "casual",
+      "dismissive"
+    ],
+    "antonyms": [
+      "careful"
+    ],
+    "example": "A cavalier attitude towards documentation led to the loan rejection.",
+    "banking_usage": "A cavalier attitude towards documentation led to the loan rejection.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "IBPS PO",
+      "IBPS Clerk"
+    ],
+    "pronunciation_hint": "cavalier"
+  },
+  {
+    "id": 127,
+    "word": "Groundswell",
+    "meaning_en": "strong public rise/support",
+    "meaning_hi": "जन-समर्थन की लहर",
+    "synonyms": [
+      "surge",
+      "wave"
+    ],
+    "antonyms": [
+      "decline"
+    ],
+    "example": "There was a groundswell of support for the proposed merger among employees.",
+    "banking_usage": "There was a groundswell of support for the proposed merger among employees.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Hard",
+    "exam_relevance": [
+      "IBPS Clerk",
+      "IBPS SO",
+      "SBI PO"
+    ],
+    "pronunciation_hint": "groundswell"
+  },
+  {
+    "id": 128,
+    "word": "Fraudulent",
+    "meaning_en": "dishonest/fake",
+    "meaning_hi": "धोखाधड़ी से युक्त",
+    "synonyms": [
+      "deceitful",
+      "false"
+    ],
+    "antonyms": [
+      "honest"
+    ],
+    "example": "The bank detected a fraudulent loan application using fake salary slips.",
+    "banking_usage": "The bank detected a fraudulent loan application using fake salary slips.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Hard",
+    "exam_relevance": [
+      "IBPS SO",
+      "SBI PO",
+      "SBI Clerk",
+      "RBI Grade B"
+    ],
+    "pronunciation_hint": "fraudulent"
+  },
+  {
+    "id": 129,
+    "word": "Overhaul",
+    "meaning_en": "repair/improve fully",
+    "meaning_hi": "पूरी तरह सुधारना",
+    "synonyms": [
+      "rebuild",
+      "reform"
+    ],
+    "antonyms": [
+      "neglect"
+    ],
+    "example": "The RBI ordered a complete overhaul of the bank's risk management framework.",
+    "banking_usage": "The RBI ordered a complete overhaul of the bank's risk management framework.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "SBI PO",
+      "SBI Clerk"
+    ],
+    "pronunciation_hint": "overhaul"
+  },
+  {
+    "id": 130,
+    "word": "Unleash",
+    "meaning_en": "release",
+    "meaning_hi": "मुक्त करना",
+    "synonyms": [
+      "free",
+      "let loose"
+    ],
+    "antonyms": [
+      "restrain"
+    ],
+    "example": "Digital lending platforms unleash faster credit access for MSMEs.",
+    "banking_usage": "Digital lending platforms unleash faster credit access for MSMEs.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "SBI Clerk",
+      "RBI Grade B",
+      "SSC CGL"
+    ],
+    "pronunciation_hint": "unleash"
+  },
+  {
+    "id": 131,
+    "word": "Surpass",
+    "meaning_en": "exceed",
+    "meaning_hi": "पार करना",
+    "synonyms": [
+      "outdo",
+      "excel"
+    ],
+    "antonyms": [
+      "lag behind"
+    ],
+    "example": "The bank's quarterly profit managed to surpass analyst expectations.",
+    "banking_usage": "The bank's quarterly profit managed to surpass analyst expectations.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "RBI Grade B",
+      "SSC CGL",
+      "IBPS PO",
+      "IBPS Clerk"
+    ],
+    "pronunciation_hint": "surpass"
+  },
+  {
+    "id": 132,
+    "word": "Epoch",
+    "meaning_en": "important period",
+    "meaning_hi": "युग",
+    "synonyms": [
+      "era",
+      "age"
+    ],
+    "antonyms": [
+      "moment"
+    ],
+    "example": "Digital payments marked a new epoch in Indian banking history.",
+    "banking_usage": "Digital payments marked a new epoch in Indian banking history.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "SSC CGL",
+      "IBPS PO"
+    ],
+    "pronunciation_hint": "epoch"
+  },
+  {
+    "id": 133,
+    "word": "Munificent",
+    "meaning_en": "very generous",
+    "meaning_hi": "अत्यंत उदार",
+    "synonyms": [
+      "liberal",
+      "bountiful"
+    ],
+    "antonyms": [
+      "miserly"
+    ],
+    "example": "The trust offered a munificent donation to the bank's CSR fund.",
+    "banking_usage": "The trust offered a munificent donation to the bank's CSR fund.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Hard",
+    "exam_relevance": [
+      "IBPS PO",
+      "IBPS Clerk",
+      "IBPS SO"
+    ],
+    "pronunciation_hint": "munificent"
+  },
+  {
+    "id": 134,
+    "word": "Resilience",
+    "meaning_en": "ability to recover",
+    "meaning_hi": "लचीलापन/उबरने की क्षमता",
+    "synonyms": [
+      "toughness",
+      "adaptability"
+    ],
+    "antonyms": [
+      "weakness"
+    ],
+    "example": "The banking sector showed strong resilience during the economic slowdown.",
+    "banking_usage": "The banking sector showed strong resilience during the economic slowdown.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Hard",
+    "exam_relevance": [
+      "IBPS Clerk",
+      "IBPS SO",
+      "SBI PO",
+      "SBI Clerk"
+    ],
+    "pronunciation_hint": "resilience"
+  },
+  {
+    "id": 135,
+    "word": "Lure",
+    "meaning_en": "attract/tempt",
+    "meaning_hi": "आकर्षित करना",
+    "synonyms": [
+      "entice",
+      "attract"
+    ],
+    "antonyms": [
+      "repel"
+    ],
+    "example": "Attractive cashback offers lure customers to use the new payment app.",
+    "banking_usage": "Attractive cashback offers lure customers to use the new payment app.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "IBPS SO",
+      "SBI PO"
+    ],
+    "pronunciation_hint": "lure"
+  },
+  {
+    "id": 136,
+    "word": "Synergy",
+    "meaning_en": "combined cooperation",
+    "meaning_hi": "सहक्रिया",
+    "synonyms": [
+      "collaboration",
+      "teamwork"
+    ],
+    "antonyms": [
+      "conflict"
+    ],
+    "example": "The merger created synergy between the two banks' branch networks.",
+    "banking_usage": "The merger created synergy between the two banks' branch networks.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "SBI PO",
+      "SBI Clerk",
+      "RBI Grade B"
+    ],
+    "pronunciation_hint": "synergy"
+  },
+  {
+    "id": 137,
+    "word": "Abjure",
+    "meaning_en": "reject formally",
+    "meaning_hi": "औपचारिक रूप से त्यागना",
+    "synonyms": [
+      "renounce",
+      "give up"
+    ],
+    "antonyms": [
+      "accept"
+    ],
+    "example": "The whistleblower had to publicly abjure his earlier statement under pressure.",
+    "banking_usage": "The whistleblower had to publicly abjure his earlier statement under pressure.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "SBI Clerk",
+      "RBI Grade B",
+      "SSC CGL",
+      "IBPS PO"
+    ],
+    "pronunciation_hint": "abjure"
+  },
+  {
+    "id": 138,
+    "word": "Daunting",
+    "meaning_en": "difficult/intimidating",
+    "meaning_hi": "कठिन/भयभीत करने वाला",
+    "synonyms": [
+      "challenging",
+      "discouraging"
+    ],
+    "antonyms": [
+      "easy"
+    ],
+    "example": "Clearing the IBPS exam felt daunting given the vast syllabus.",
+    "banking_usage": "Clearing the IBPS exam felt daunting given the vast syllabus.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "RBI Grade B",
+      "SSC CGL"
+    ],
+    "pronunciation_hint": "daunting"
+  },
+  {
+    "id": 139,
+    "word": "Explicit",
+    "meaning_en": "clear/direct",
+    "meaning_hi": "स्पष्ट",
+    "synonyms": [
+      "clear",
+      "definite"
+    ],
+    "antonyms": [
+      "vague"
+    ],
+    "example": "The loan terms must give explicit details on processing fees.",
+    "banking_usage": "The loan terms must give explicit details on processing fees.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "SSC CGL",
+      "IBPS PO",
+      "IBPS Clerk"
+    ],
+    "pronunciation_hint": "explicit"
+  },
+  {
+    "id": 140,
+    "word": "Laudable",
+    "meaning_en": "praiseworthy",
+    "meaning_hi": "प्रशंसनीय",
+    "synonyms": [
+      "admirable",
+      "commendable"
+    ],
+    "antonyms": [
+      "shameful"
+    ],
+    "example": "The bank's financial inclusion drive received laudable praise from RBI.",
+    "banking_usage": "The bank's financial inclusion drive received laudable praise from RBI.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "IBPS PO",
+      "IBPS Clerk",
+      "IBPS SO",
+      "SBI PO"
+    ],
+    "pronunciation_hint": "laudable"
+  },
+  {
+    "id": 141,
+    "word": "Paucity",
+    "meaning_en": "scarcity/lack",
+    "meaning_hi": "कमी/अभाव",
+    "synonyms": [
+      "shortage",
+      "dearth"
+    ],
+    "antonyms": [
+      "abundance"
+    ],
+    "example": "A paucity of collateral often delays MSME loan approvals.",
+    "banking_usage": "A paucity of collateral often delays MSME loan approvals.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "IBPS Clerk",
+      "IBPS SO"
+    ],
+    "pronunciation_hint": "paucity"
+  },
+  {
+    "id": 142,
+    "word": "Stringent",
+    "meaning_en": "strict",
+    "meaning_hi": "सख्त",
+    "synonyms": [
+      "severe",
+      "rigid"
+    ],
+    "antonyms": [
+      "lenient"
+    ],
+    "example": "RBI imposed stringent norms on NBFC lending practices.",
+    "banking_usage": "RBI imposed stringent norms on NBFC lending practices.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "IBPS SO",
+      "SBI PO",
+      "SBI Clerk"
+    ],
+    "pronunciation_hint": "stringent"
+  },
+  {
+    "id": 143,
+    "word": "Protracted",
+    "meaning_en": "prolonged",
+    "meaning_hi": "लंबा खिंचा हुआ",
+    "synonyms": [
+      "extended",
+      "lengthy"
+    ],
+    "antonyms": [
+      "brief"
+    ],
+    "example": "The loan recovery case led to a protracted legal battle.",
+    "banking_usage": "The loan recovery case led to a protracted legal battle.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Hard",
+    "exam_relevance": [
+      "SBI PO",
+      "SBI Clerk",
+      "RBI Grade B",
+      "SSC CGL"
+    ],
+    "pronunciation_hint": "protracted"
+  },
+  {
+    "id": 144,
+    "word": "Malign",
+    "meaning_en": "evil/harmful",
+    "meaning_hi": "दुर्भावनापूर्ण",
+    "synonyms": [
+      "malicious",
+      "hostile"
+    ],
+    "antonyms": [
+      "benevolent"
+    ],
+    "example": "Competitors tried to malign the bank's reputation through false rumours.",
+    "banking_usage": "Competitors tried to malign the bank's reputation through false rumours.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "SBI Clerk",
+      "RBI Grade B"
+    ],
+    "pronunciation_hint": "malign"
+  },
+  {
+    "id": 145,
+    "word": "Vulnerable",
+    "meaning_en": "exposed to harm",
+    "meaning_hi": "असुरक्षित",
+    "synonyms": [
+      "weak",
+      "defenseless"
+    ],
+    "antonyms": [
+      "protected"
+    ],
+    "example": "Senior citizens are often vulnerable to digital banking fraud.",
+    "banking_usage": "Senior citizens are often vulnerable to digital banking fraud.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Hard",
+    "exam_relevance": [
+      "RBI Grade B",
+      "SSC CGL",
+      "IBPS PO"
+    ],
+    "pronunciation_hint": "vulnerable"
+  },
+  {
+    "id": 146,
+    "word": "Onerous",
+    "meaning_en": "burdensome/difficult",
+    "meaning_hi": "बोझिल/कठिन",
+    "synonyms": [
+      "heavy",
+      "troublesome"
+    ],
+    "antonyms": [
+      "easy"
+    ],
+    "example": "Meeting the new compliance deadline proved onerous for smaller banks.",
+    "banking_usage": "Meeting the new compliance deadline proved onerous for smaller banks.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Medium",
+    "exam_relevance": [
+      "SSC CGL",
+      "IBPS PO",
+      "IBPS Clerk",
+      "IBPS SO"
+    ],
+    "pronunciation_hint": "onerous"
+  },
+  {
+    "id": 147,
+    "word": "Strife",
+    "meaning_en": "conflict",
+    "meaning_hi": "संघर्ष/कलह",
+    "synonyms": [
+      "dispute",
+      "clash"
+    ],
+    "antonyms": [
+      "harmony"
+    ],
+    "example": "Labour strife disrupted operations at the regional processing centre.",
+    "banking_usage": "Labour strife disrupted operations at the regional processing centre.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "IBPS PO",
+      "IBPS Clerk"
+    ],
+    "pronunciation_hint": "strife"
+  },
+  {
+    "id": 148,
+    "word": "Cogent",
+    "meaning_en": "logical/convincing",
+    "meaning_hi": "तर्कसंगत/प्रभावशाली",
+    "synonyms": [
+      "compelling",
+      "persuasive"
+    ],
+    "antonyms": [
+      "weak"
+    ],
+    "example": "The analyst presented a cogent argument for cutting interest rates.",
+    "banking_usage": "The analyst presented a cogent argument for cutting interest rates.",
+    "category": "Banking & Finance Vocab",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "IBPS Clerk",
+      "IBPS SO",
+      "SBI PO"
+    ],
+    "pronunciation_hint": "cogent"
+  },
+  {
+    "id": 149,
+    "word": "Wary",
+    "meaning_en": "cautious",
+    "meaning_hi": "सतर्क",
+    "synonyms": [
+      "alert",
+      "careful"
+    ],
+    "antonyms": [
+      "careless"
+    ],
+    "example": "Customers are growing wary of unsolicited loan approval calls.",
+    "banking_usage": "Customers are growing wary of unsolicited loan approval calls.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "IBPS SO",
+      "SBI PO",
+      "SBI Clerk",
+      "RBI Grade B"
+    ],
+    "pronunciation_hint": "wary"
+  },
+  {
+    "id": 150,
+    "word": "Aloof",
+    "meaning_en": "distant/unfriendly",
+    "meaning_hi": "उदासीन/दूर रहने वाला",
+    "synonyms": [
+      "reserved",
+      "detached"
+    ],
+    "antonyms": [
+      "friendly"
+    ],
+    "example": "The new manager seemed aloof during the initial branch visits.",
+    "banking_usage": "The new manager seemed aloof during the initial branch visits.",
+    "category": "General Vocabulary",
+    "subtype": "Vocabulary",
+    "difficulty": "Easy",
+    "exam_relevance": [
+      "SBI PO",
+      "SBI Clerk"
+    ],
+    "pronunciation_hint": "aloof"
+  }
+]
