@@ -247,14 +247,15 @@ function tableBlock(title, rows){
     Object.keys(row).forEach(key => set.add(key));
     return set;
   }, new Set()));
+  const columnLabels = columns.map(column => titleCase(column));
   return `
     <section class="content-block">
       <h3>${esc(title)}</h3>
       <div class="table-wrap">
         <table>
-          <thead><tr>${columns.map(column => `<th>${esc(titleCase(column))}</th>`).join("")}</tr></thead>
+          <thead><tr>${columnLabels.map(label => `<th>${esc(label)}</th>`).join("")}</tr></thead>
           <tbody>
-            ${normalizedRows.map(row => `<tr>${columns.map(column => `<td>${esc(textOf(row[column]))}</td>`).join("")}</tr>`).join("")}
+            ${normalizedRows.map(row => `<tr>${columns.map((column, index) => `<td data-label="${attr(columnLabels[index])}">${esc(textOf(row[column]))}</td>`).join("")}</tr>`).join("")}
           </tbody>
         </table>
       </div>

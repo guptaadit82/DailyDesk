@@ -13,7 +13,7 @@ import {
   quizResult,
   studyPage,
   vocabPage
-} from "./views.js";
+} from "./views.js?v=mobile2";
 import { shuffle } from "./utils.js";
 
 const store = createStore(CONFIG.storageKey);

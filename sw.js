@@ -1,15 +1,18 @@
-const CACHE_NAME = "daily-desk-cache-v1";
+const CACHE_NAME = "daily-desk-cache-v3";
 const ASSETS = [
   "./",
   "./index.html",
   "./style.css",
+  "./style.css?v=mobile2",
   "./app.js",
   "./js/config.js",
   "./js/main.js",
+  "./js/main.js?v=mobile2",
   "./js/store.js",
   "./js/subjects.js",
   "./js/utils.js",
   "./js/views.js",
+  "./js/views.js?v=mobile2",
   "./vocab.json",
   "./manifest.json",
   "./icons/favicon.ico",
