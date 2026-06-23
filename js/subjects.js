@@ -50,6 +50,11 @@ function validateData(vocab, phrase, gk, quizData){
 
 function buildGkCourse(gk, quizQuestions){
   const topics = gk.topics || [];
+  const sourceBlocks = [
+    textBlock("App", [gk.app?.name, gk.app?.description].filter(Boolean)),
+    textBlock("Sources", sourceLines(gk.source)),
+    tableBlock("Known PDF Issues", gk.source?.knownPdfIssues || [])
+  ].filter(Boolean).concat(sourceRawBlocks(gk.source));
   const studyModules = [
     {
       type: "overview",
@@ -61,15 +66,7 @@ function buildGkCourse(gk, quizQuestions){
         ["Quiz questions", quizQuestions.length],
         ["Data version", gk.dataVersion || gk.generatedOn || "local"]
       ],
-      blocks: [
-        textBlock("App", [gk.app?.name, gk.app?.description].filter(Boolean)),
-        textBlock("Source", [
-          gk.source?.pdfPath ? "PDF: " + gk.source.pdfPath : "",
-          gk.source?.pageCount ? "Pages: " + gk.source.pageCount : "",
-          gk.source?.preservationPolicy
-        ].filter(Boolean)),
-        tableBlock("Known PDF Issues", gk.source?.knownPdfIssues || [])
-      ].filter(Boolean).concat([rawBlock("Original PDF Text", gk.source?.rawPages || [])].filter(Boolean))
+      blocks: sourceBlocks
     },
     ...topics.map(topicToModule)
   ];
@@ -82,7 +79,7 @@ function buildGkCourse(gk, quizQuestions){
     subtitle: "Static GK, exam facts, reports, important days, and current affairs",
     dataVersion: gk.dataVersion || gk.generatedOn || "gk",
     dashboard: {
-      primary: "Study all GK data in one ordered notebook, then test with 20 random MCQs.",
+      primary: "Study all GK and SSC GS data in one ordered notebook, then test with a 25-question proportioned quiz.",
       metrics: [
         ["Topics", topics.length],
         ["Study modules", studyModules.length],
@@ -95,11 +92,44 @@ function buildGkCourse(gk, quizQuestions){
   };
 }
 
+function sourceLines(source){
+  if(!source) return [];
+  const lines = [
+    source.pdfPath ? "PDF: " + sourceLabel(source.pdfPath) + " (" + source.pdfPath + ")" : "",
+    source.pageCount ? "Pages: " + source.pageCount : "",
+    source.preservationPolicy
+  ].filter(Boolean);
+  (source.additionalSources || []).forEach(item => {
+    lines.push("PDF: " + sourceLabel(item.pdfPath) + " (" + item.pdfPath + ")");
+    if(item.pageCount) lines.push("Pages: " + item.pageCount);
+    if(item.preservationPolicy) lines.push(item.preservationPolicy);
+  });
+  return lines;
+}
+
+function sourceRawBlocks(source){
+  if(!source) return [];
+  const blocks = [];
+  const primaryRaw = rawBlock("Original PDF Text - " + sourceLabel(source.pdfPath || "Primary Source"), source.rawPages || []);
+  if(primaryRaw) blocks.push(primaryRaw);
+  (source.additionalSources || []).forEach(item => {
+    const block = rawBlock("Original PDF Text - " + sourceLabel(item.pdfPath || "Additional Source"), item.rawPages || []);
+    if(block) blocks.push(block);
+  });
+  return blocks;
+}
+
+function sourceLabel(value){
+  return String(value || "Source").split(/[\\/]/).pop() || "Source";
+}
+
 function topicToModule(topic){
   const blocks = [];
   blocks.push(textBlock("Status", [topic.status, topic.sourceWarning, topic.sourceNote, topic.examScopeFromPdf, topic.rawPromptFromPdf].filter(Boolean)));
   blocks.push(listBlock("Exam Tags", topic.examTags));
-  (topic.sections || []).forEach(section => blocks.push(listBlock(section.title, section.items)));
+  (topic.sections || []).forEach(section => blocks.push(listBlock(section.title, section.items, {
+    collapsible: section.collapsible
+  })));
 
   if(topic.tables){
     Object.entries(topic.tables).forEach(([name, rows]) => blocks.push(tableBlock(titleCase(name), rows)));
@@ -267,9 +297,14 @@ function textBlock(title, lines){
   return { kind: "text", title, lines };
 }
 
-function listBlock(title, items){
+function listBlock(title, items, options = {}){
   if(!items || !items.length) return null;
-  return { kind: "list", title, items };
+  return {
+    kind: "list",
+    title,
+    items,
+    collapsible: Boolean(options.collapsible)
+  };
 }
 
 function tableBlock(title, rows){

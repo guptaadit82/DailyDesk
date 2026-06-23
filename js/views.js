@@ -83,7 +83,7 @@ export function quizIntro(course, stats, quizSize){
         <span class="score-pill">${stats.quizCount} in bank</span>
       </div>
       <div class="quiz-rules">
-        <span>Random from full database</span>
+        <span>${course.id === "gk" ? "Topic-proportioned random mix" : "Random from full database"}</span>
         <span>4 options per question</span>
         <span>No timer</span>
         <span>No negative marking</span>
@@ -214,10 +214,22 @@ function block(item){
     `;
   }
   if(item.kind === "list"){
+    const listMarkup = `<ul>${(item.items || []).map(value => `<li>${esc(textOf(value))}</li>`).join("")}</ul>`;
+    if(item.collapsible){
+      return `
+        <details class="content-block study-detail">
+          <summary>
+            <span>${esc(item.title)}</span>
+            <small>${(item.items || []).length} facts</small>
+          </summary>
+          ${listMarkup}
+        </details>
+      `;
+    }
     return `
       <section class="content-block">
         <h3>${esc(item.title)}</h3>
-        <ul>${(item.items || []).map(value => `<li>${esc(textOf(value))}</li>`).join("")}</ul>
+        ${listMarkup}
       </section>
     `;
   }

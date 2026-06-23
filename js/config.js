@@ -2,7 +2,7 @@ export const CONFIG = Object.freeze({
   storageKey: "vocabdesk_course_state_v1",
   installDismissKey: "vocabdesk_install_dismissed_v4",
   quizSizes: Object.freeze({
-    gk: 20,
+    gk: 25,
     english: 30
   }),
   files: Object.freeze({

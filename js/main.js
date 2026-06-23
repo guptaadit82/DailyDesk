@@ -13,7 +13,7 @@ import {
   quizResult,
   studyPage,
   vocabPage
-} from "./views.js?v=mobile2";
+} from "./views.js?v=gkgs2";
 import { shuffle } from "./utils.js";
 
 const store = createStore(CONFIG.storageKey);
@@ -226,7 +226,7 @@ function handleWorkspaceClick(event){
 function startQuiz(){
   const course = currentCourse();
   const size = quizSize(course.id);
-  const questions = shuffle(course.quizQuestions).slice(0, size).map(shuffleQuestionOptions);
+  const questions = selectQuizQuestions(course, size).map(shuffleQuestionOptions);
   app.quiz = {
     courseId: course.id,
     questions,
@@ -237,6 +237,73 @@ function startQuiz(){
   };
   store.markActivity();
   renderQuizQuestionOrResult();
+}
+
+function selectQuizQuestions(course, size){
+  if(course.id !== "gk") return shuffle(course.quizQuestions).slice(0, size);
+
+  const groups = Object.values(course.quizQuestions.reduce((grouped, question) => {
+    const key = question.subjectId || "gk";
+    if(!grouped[key]) grouped[key] = { subjectId: key, questions: [] };
+    grouped[key].questions.push(question);
+    return grouped;
+  }, {})).filter(group => group.questions.length);
+
+  if(groups.length <= 1) return shuffle(course.quizQuestions).slice(0, size);
+  if(groups.length >= size) return shuffle(groups).slice(0, size).map(group => shuffle(group.questions)[0]);
+
+  const quotas = proportionalQuotas(groups, size);
+  const pickedIds = new Set();
+  const selected = [];
+  groups.forEach(group => {
+    shuffle(group.questions).slice(0, quotas[group.subjectId] || 0).forEach(question => {
+      pickedIds.add(question.id);
+      selected.push(question);
+    });
+  });
+
+  if(selected.length < size){
+    shuffle(course.quizQuestions)
+      .filter(question => !pickedIds.has(question.id))
+      .slice(0, size - selected.length)
+      .forEach(question => selected.push(question));
+  }
+
+  return shuffle(selected).slice(0, size);
+}
+
+function proportionalQuotas(groups, size){
+  const quotas = {};
+  const allocations = groups.map(group => ({
+    subjectId: group.subjectId,
+    count: group.questions.length,
+    quota: 1,
+    remainder: 0
+  }));
+  let assigned = allocations.length;
+  const total = allocations.reduce((sum, item) => sum + item.count, 0);
+  const remainingSlots = Math.max(0, size - assigned);
+
+  allocations.forEach(item => {
+    const rawExtra = total ? remainingSlots * item.count / total : 0;
+    const extra = Math.min(Math.floor(rawExtra), item.count - item.quota);
+    item.quota += extra;
+    item.remainder = rawExtra - extra;
+    assigned += extra;
+  });
+
+  while(assigned < size){
+    const next = allocations
+      .filter(item => item.quota < item.count)
+      .sort((left, right) => (right.remainder - left.remainder) || (right.count - left.count))[0];
+    if(!next) break;
+    next.quota += 1;
+    next.remainder = 0;
+    assigned += 1;
+  }
+
+  allocations.forEach(item => { quotas[item.subjectId] = item.quota; });
+  return quotas;
 }
 
 function shuffleQuestionOptions(question){

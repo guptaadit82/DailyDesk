@@ -304,6 +304,32 @@ main#app{
   margin:7px 0;
   line-height:1.45;
 }
+.study-detail summary{
+  min-height:42px;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:10px;
+  font-weight:850;
+}
+.study-detail summary span{
+  min-width:0;
+  overflow-wrap:anywhere;
+}
+.study-detail summary small{
+  flex:0 0 auto;
+  padding:4px 7px;
+  border-radius:999px;
+  background:var(--primary-soft);
+  color:var(--primary-dark);
+  font-size:.68rem;
+  font-weight:850;
+}
+.study-detail ul{
+  margin-top:10px;
+  padding-top:10px;
+  border-top:1px solid var(--line);
+}
 .table-wrap{
   width:100%;
   overflow-x:auto;
