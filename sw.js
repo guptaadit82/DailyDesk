@@ -1,4 +1,4 @@
-const CACHE_NAME = "daily-desk-cache-v5";
+const CACHE_NAME = "daily-desk-cache-v6";
 const ASSETS = [
   "./",
   "./index.html",
